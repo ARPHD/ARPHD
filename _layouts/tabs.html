@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div>
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#pregreffe" aria-controls="home" role="tab" data-toggle="tab">Bilan pré-greffe</a></li>
+    <li role="presentation"><a href="#attente" aria-controls="attente" role="tab" data-toggle="tab">Phase d'attente</a></li>
+    <li role="presentation"><a href="#operation" aria-controls="operation" role="tab" data-toggle="tab">Opération</a></li>
+    <li role="presentation"><a href="#suivi" aria-controls="suivi" role="tab" data-toggle="tab">Suivi à long terme</a></li>
+  </ul>
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+    {% assign tabs = content | split:"<h1" %}
+    {% for page in tabs %}
+      {% if forloop.first == false %}
+        {% case forloop.index %}
+          {% when 2 %}
+            <div role="tabpanel" class="tab-pane active" id="pregreffe"><h1{{ page }}</div>
+          {% when 3 %}
+            <div role="tabpanel" class="tab-pane" id="attente"><h1{{ page }}</div>
+          {% when 4 %}
+            <div role="tabpanel" class="tab-pane" id="operation"><h1{{ page }}</div>
+          {% when 5 %}
+            <div role="tabpanel" class="tab-pane" id="suivi"><h1{{ page }}</div>
+        {% endcase %}
+      {% endif %}
+    {% endfor %}
+    <!--<div role="tabpanel" class="tab-pane active" id="pregreffe"> content | split:"<h1" }}</div>
+    <div role="tabpanel" class="tab-pane" id="attente">...</div>
+    <div role="tabpanel" class="tab-pane" id="operation">...</div>
+    <div role="tabpanel" class="tab-pane" id="suivi">...</div>-->
+  </div>
+
+</div>

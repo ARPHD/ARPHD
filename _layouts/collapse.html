@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<h1 id={{ page.h1 }}>{{ page.h1 }}</h1>
+{% assign questions = content | escape | split:"&lt;h3" %}
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  {% for q in questions %}
+    {% if q != "" %}
+      <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="question_{{ forloop.index}}">
+          <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse_{{ forloop.index }}" aria-expanded="false" aria-controls="collapse_{{ forloop.index }}">
+                {% assign  tokens = q | split:"&gt;" %}
+                {% for title in tokens %}
+                  {% if forloop.index == 2 %}
+                    {{ title | split:"&lt;" | first }}
+                  {% endif %}
+                {% endfor %}
+
+            </a>
+          </h4>
+        </div>
+        <div id="collapse_{{ forloop.index }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="question_{{ forloop.index }}">
+          <div class="panel-body">
+            {% assign answer = q | split:"&lt;p&gt;" %}
+            {% assign lenght = answer | size %}
+            {% if lenght != 1 %}
+              {{ answer | last | replace:"&lt;/p&gt;",""}}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

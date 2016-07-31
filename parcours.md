@@ -1,6 +1,7 @@
 ---
 title: Unité de Transplantation Hépatique - Parcours de transplantation hépatique à Henri Mondor
 permalink: /parcours
+layout: tabs
 ---
 # Le bilan pré greffe
 
@@ -25,7 +26,7 @@ Une échographie doppler hépatique et un scanner abdomino-pelvien visent à ren
 
 ## Le bilan d'operabilite
 Il permet de faire un bilan exhaustif de votre état général par une évaluation de vos fonctions cardiaque, pulmonaire et rénale. Ces examens détermineront les risques potentiels que vous encourez selon vos antécédants ( hypertension artérielle, diabète, tabac, alcool, obésité, cancer).
-Les examens : 
+Les examens :
 
 * échographie cardiaque
 * scintigraphie cardiaque d'effort
@@ -51,18 +52,20 @@ Notez que la présence d'une personne dite  "référente" de votre choix (qui pe
 Si nécessaire, un arret de toute substance toxique tels que l'alcool et le tabac pouvant contre indiquer la greffe sera demandé.
 Pour vous aider dans cette démarche de sevrage, un suivi addictologique vous sera proposé.
 
-## Dépistage de contre indications formelles a la greffe 
-  Certaines pathologies graves tels que les cancers peuvent constituer une contre-indication (temporaire ou définitive) à la greffe. 
+## Dépistage de contre indications formelles a la greffe
+  Certaines pathologies graves tels que les cancers peuvent constituer une contre-indication (temporaire ou définitive) à la greffe.
 
 * PET SCAN (scanner du corps entier)
 * mammographie/examens gynecologiques
-* dosage sanguin de marqueurs tumoraux 
+* dosage sanguin de marqueurs tumoraux
 pourront ètre prescrits en complément.
 
 ## Consultation de fin de bilan pré greffe
 Ce bilan se termine par une consultation avec un chirurgien hépatique, un anesthésiste et l'hépatologue référent.
 L'inscription sur liste nationale d'attente de greffe hépatique auprès de l'Agence de Biomédecine par l'infirmière coordinatrice signe la fin de votre bilan pré greffe
 
+# Phase d'attente
 
+## JHeloo
 
-
+mdosifjkspdôfkps

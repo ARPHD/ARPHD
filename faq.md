@@ -1,8 +1,8 @@
 ---
 title: Unité de Transplantation Hépatique - Questions fréquentes
+layout: collapse
+h1: FAQ
 ---
-# FAQ
-
 ### Pourquoi me prescrit on un régime sans sel?
 Lorsque la cirrhose du foie est avancée (on dit aussi décompensée), votre foie fonctionne moins bien, ce qui explique l'apparition d'un liquide séreux appelé "ascite" dans la cavité abdominale. Ce liquide peut augmenter de volume au fil du temps et aller jusqu'à une dixaine de litres.
 Le régime sans sel est une prescription médicale . Il vise à limiter la formation d'ascite dans l'abdomen et éviter le recours aux ponction évacuatrices qui sont des gestes invasifs qui nécessitent des hospitalisations répétées.
@@ -27,7 +27,7 @@ Un sevrage total d'au moins 6 mois est demandé avant de pouvoir envisager une t
 ### Que dois-je faire en cas d’hémorragie ?
 
 ### Que dois je faire en cas de douleurs du ventre ?
- 
+
 ### Que dois je faire en cas de fièvre ?
 
 ### Que dois-je faire si mon entourage constate que mon comportement n’est plus mon comportement habituel ?
@@ -44,7 +44,7 @@ L'ATTRIBUTION DES GREFFONS EST SOUS LA RESPONSABILITE DE L'ABM qui utilise le sc
 
 ### Qu'est-ce que l'observance?
 Malgré les précautions (suivi médical), il existe 10% de décès en phase d'attente .
-L'observance aux traitements prescrits et au suivi médical pendant la phase d’attente peut limiter ce risque. 
+L'observance aux traitements prescrits et au suivi médical pendant la phase d’attente peut limiter ce risque.
 Insister sur le caractère impératif de respecter les RV les traitemetns les horaites….
 
 ### Qu’est ce que l’Agence de Biomédecine ?
@@ -54,7 +54,7 @@ Comment puis-je connaître ma position sur la liste d’attente ?
 Comment ma position sur la liste d’attente est-elle définie ?
 
 ### Pourquoi me propose t'on une greffe alors qu'on peut traiter mon cancer du foie par des traitements locaux?
-Les traitements dits locaux comme la chimioembolisation ou la radiofréquence ou encore la radioembolisation permettent un contrôle provisoire de la tumeur mais ne traitent pas votre cirrhose qui est une maladie pré cancéreuse et expose à la ré-apparition d’un nouveau cancer. Dans cette situation , il est prudent d'effectuer un bilan pré greffe simultanément au traitement loco régional des nodules du foie afin de ne pas perdre du temps et de pouvoir activer la procédure de greffe en cas de récidive du cancer. 
+Les traitements dits locaux comme la chimioembolisation ou la radiofréquence ou encore la radioembolisation permettent un contrôle provisoire de la tumeur mais ne traitent pas votre cirrhose qui est une maladie pré cancéreuse et expose à la ré-apparition d’un nouveau cancer. Dans cette situation , il est prudent d'effectuer un bilan pré greffe simultanément au traitement loco régional des nodules du foie afin de ne pas perdre du temps et de pouvoir activer la procédure de greffe en cas de récidive du cancer.
 De plus le temps d’attente des patients inscrits pour une greffe pour cancer est souvent supérieur à un an et il est donc essentiel de pouvoir bloquer la croissance de votre tumeur pendant la phase d’attente. En effet les tumeurs trop volumineuses sont des contre-indications à la greffe.
 
 ### Combien de temps puis je vivre avec mon nouveau foie ?
@@ -66,4 +66,3 @@ De plus le temps d’attente des patients inscrits pour une greffe pour cancer e
 ### Comment me rendre à l’hôpital le jour de l’appel à la greffe ?
 
 ### En combien de temps ?
-
