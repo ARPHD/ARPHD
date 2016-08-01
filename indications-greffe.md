@@ -17,12 +17,14 @@ La gravité de la maladie peut être chiffrée objectivement par des scores comb
 Beaucoup plus rares, les hépatites aiguës gravissimes ([hépatites fulminantes](#indication-de-transplantation-pour-hépatite-fulminante)), au cours desquelles le pronostic vital peut être engagé en quelques jours, sont également un motif de transplantation.
 
 ## Indication de transplantation pour cirrhose alcoolique
+
 La cirrhose alcoolique est l’indication de greffe la plus fréquente en France, mais ne représente que 25% des transplantations.
 Comme pour toutes les cirrhoses, c’est la survenue et/ou la répétition de complications graves qui font envisager l’intervention. 
 Une prise en charge conjointe de la maladie alcoolique est cependant une étape préliminaire indispensable. En effet, le remplacement de l’organe malade n’est pas un traitement de la conduite addictive ; par ailleurs la poursuite ou la récidive de la consommation d’alcool après la greffe s’accompagne de résultats catastrophiques avec notamment un risque  accru de rejet ou de cancer. 
- L’évaluation addictologique fait donc partie intégrante du bilan pré-opératoire et repose sur :
 
-* une ou des consultations avec un médecin addictologue.
+L’évaluation addictologique fait donc partie intégrante du bilan pré-opératoire et repose sur :
+
+* une ou des consultations avec un [médecin addictologue](contact.html#addictologie-dr-trabut-dr-stabush-dr-zerdazi).
 * l’observance aux soins et aux contraintes liées au programme de greffe (prises médicamenteuses, consultations fréquentes, hospitalisations répétées,…).
 * une période de sevrage pré-opératoire habituellement de 6 mois, ce délai permettant de juger de l’adhésion du malade au projet de greffe et étant également mis à profit pour s’assurer de l’absence de récupération de la fonction hépatique à l’arrêt de l’alcool. Dans de rares cas, obéissant à des critères de sélection très stricts définis à l’échelon national, la période de sevrage requise peut être raccourcie.
 
@@ -36,9 +38,10 @@ Le syndrome métabolique est de plus en plus répandu dans les populations occid
 
 Dans ces cas de cirrhose secondaire à une NASH, le bilan pré-opératoire doit rechercher soigneusement des complications extra-hépatiques des anomalies métaboliques, notamment au niveau cardio-vasculaire ou rénal. 
 
-Après la transplantation, le syndrome métabolique persiste, ce d’autant que le diabète, l’hypercholestérolémie et l’hypertension artérielle sont des effets secondaires fréquents des traitements anti-rejet. Un suivi diététique est souvent indiqué pour en minimiser les répercussions.
+Après la transplantation, le syndrome métabolique persiste, ce d’autant que le diabète, l’hypercholestérolémie et l’hypertension artérielle sont des effets secondaires fréquents des traitements anti-rejet. Un [suivi diététique](contact.html#diététicienne-mme-goncalves) est souvent indiqué pour en minimiser les répercussions.
 
 ## Indication de transplantation pour cancer
+
 On distingue 2 grands types de cancer du foie : les cancers hépatiques dits primitifs qui se développent par transformation maligne de cellules hépatiques et les cancers hépatiques secondaires qui correspondent à des métastases des cancers développés initialement dans d’autres organes que le foie.
 La greffe hépatique ne concerne, à l’exception des métastases de tumeurs très rares dites neuro-endocrines, que les cancers primitifs du foie. En pratique, 99% des indications de transplantation hépatique pour cancer en France concernent  la tumeur hépatique la plus fréquente appelée carcinome hépato-cellulaire ou CHC. Le CHC complique dans la plupart des cas une cirrhose, quelle qu’en soit l’origine. Le CHC peut se présenter sous forme d’une ou plusieurs lésions (nodules) dont les caractéristiques sont précisées par scanner et /ou IRM.  Il existe cependant un risque de récidive du cancer après transplantation et la transplantation est considérée comme faisable si ce risque est faible et n’excède pas 10-15%. Pour identifier ce risque on utilise en France un score appelé score AFP,  qui prend en compte la taille et le nombre de nodules de CHC et le niveau sanguin d’un  marqueur tumoral appelé AFP. 
 
@@ -92,6 +95,7 @@ De nombreuses maladies rares, souvent d’origine génétique, peuvent faire l�
 Il s’agit d’une maladie génétique le plus souvent à transmission dominante, ce qui signifie que la maladie est fréquemment observée chez des personnes de votre entourage familial (ascendants, fratrie, descendants). Au cours de cette maladie, de nombreux kystes se développent dans le foie et les reins. Les kystes peuvent saigner ou s’infecter. La fonction rénale s’altère progressivement et cette dégradation peut conduire à l’hémodialyse. La fonction hépatique reste le plus souvent normale mais les kystes, lorsqu’ils sont très volumineux, peuvent entrainer une gêne importante dans la vie quotidienne, un retentissement nutritionnel avec un amaigrissement et des fractionnement des repas voire une hypertension portale. 
 Dans cette situation, lorsque la polykystose  hépatique retentit significativement sur votre état général, l’indication de greffe, combinée le plus souvent mais pas toujours, à la greffe rénale,  doit être envisagée. Le temps d’attente est de l’ordre de 1 an grâce à un régime particulier d’accès à la greffe. Une greffe rénale associée est proposée en cas d’hémodialyse ou d’altération rapide de votre fonction rénale. 
 La coupe de scanner ci-dessous illustre la façon dont la polykystose peut augmenter de façon considérable la taille du foie et déformer l’abdomen
+![Image](images/polykystose.jpg)
 * La maladie de Wilson et l’hémochromatose génétique : il s’agit de 2 maladies qui résultent pour  la 1ère d’une accumulation de cuivre et pour la 2nde d’une accumulation de fer dans le foie.  Dans les 2 cas l’accumulation hépatique de Cu ou Fe provoque une inflammation hépatique chronique qui évolue vers la cirrhose et la décompensation. 
 Au cours de la maladie de Wilson (schéma) le cuivre  s’accumule également dans certaines régions du cerveau et peut entraîner des manifestations neurologiques qui peuvent simuler une maladie de Parkinson ou atteindre le  cervelet, et s’accompagner d’une dégradation des fonctions supérieures
 Au cours de l’hémochromatose (schéma), le fer peut également léser le pancréas, le cœur, les articulations. 

@@ -3,8 +3,11 @@ title: Unité de Transplantation Hépatique - Nous contacter
 ---
 <h1>Comment nous contacter ?</h1>
 {% for contact in site.data.contacts %}
-  <h2>{{contact.name}} :</h2>
+<h2 id='{{contact.name | slugify}}'>{{contact.name}} :</h2>
   <p><span class="glyphicon glyphicon-earphone"></span>{{contact.tel}}</p>
+  {% if contact.tel2 %}
+    <p><span class="glyphicon glyphicon-earphone"></span>{{contact.tel2}}</p>
+  {% endif %}
   {% if contact.fax %}
     <p><span class="glyphicon glyphicon-print"></span>{{contact.fax}}</p>
   {% endif %}

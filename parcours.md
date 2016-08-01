@@ -64,7 +64,7 @@ pourront ètre prescrits en complément.
 Ce bilan se termine par une consultation avec un chirurgien hépatique, un anesthésiste et l'hépatologue référent.
 L'inscription sur liste nationale d'attente de greffe hépatique auprès de l'Agence de Biomédecine par l'infirmière coordinatrice signe la fin de votre bilan pré greffe
 
-# Phase d'attente
+# Inscription et phase d'attente
 
 ## L’inscription sur liste d'attente
 
@@ -80,15 +80,14 @@ La durée d’attente sur liste est variable selon l’origine et la gravité de
 Pendant cette phase d’attente, vous devez tout faire pour maintenir au mieux votre état de santé.
 En effet, il est fréquemment constaté une dégradation de l’état général pendant la phase d’attente, notamment dans le cas d’une cirrhose décompensée.
 La cirrhose du foie entraine au fil des années un état de dénutrition sévère qui augmente les risques de mortalité sur liste et de complications après la transplantation. C’est pourquoi, l’infirmière de coordination qui vous suit vous conseillera vivement :
+
 *	De vous peser régulièrement ( une à deux fois par semaine),
 * D’avoir des repas réguliers,
 * De ne pas sauter les repas,
 * D’avoir des apports suffisants en proteines apportés par les viandes, les poissons et les œufs,
 * Si nécessaire, de fractionner votre alimentation en plusieurs petits repas par jour dans le cas d’une ascite abondante ou de manque d’appetit par exemple.
 
-
-Une  évaluation continue de votre état nutritionnel sera assurée par une diététicienne tout au long de la phase d’attente.
-
+Une évaluation continue de votre état nutritionnel sera assurée par une diététicienne tout au long de la phase d’attente.
 
 Votre inscription sur liste d’attente va entrainer quelques contraintes dans votre quotidien :
 
@@ -104,7 +103,8 @@ L’observance rigoureuse de ce suivi médical est primordial à la bonne prise 
 
 Dans quels cas nous contacter pendant cette période d’attente ?
 Certains signes de dégradation physique sont visibles par vous ou votre entourage.
-* tout saignement doit ètre signalé car il témoigne à lui seul d’une baisse de la coagulation, donc d’une altération de la fonction hépatique :
+
+* Tout saignement doit ètre signalé car il témoigne à lui seul d’une baisse de la coagulation, donc d’une altération de la fonction hépatique :
 saignements de nez, saignements des gencives, saignements dans les selles (sang rouge ou noiratre), vomissement de sang rouge ou noiratre, hématomes spontanés sur le bras etc..
 * Apparition ou aggravation de troubles de la conscience à type de somnolence, de confusion, d’agitation, de comportement inhabituel, d’agressivité (ces signes sont généralement constatés par votre entourage).
 * Prise de poids, apparition d’oedemes dans les jambes, essoufflement, douleurs abdominales 
@@ -114,8 +114,6 @@ saignements de nez, saignements des gencives, saignements dans les selles (sang 
 Notez que la jaunisse débute parfois par le blanc des yeux qui devient plus jaune puis la peau. Des démangeaisons peuvent accompagner la jaunisse.
 
 Dès le constat d’un problème de santé par vous-même ou vos proches, vous devez contacter rapidement votre médecin traitant, ou votre hépatologue référent et l’infirmière coordinatrice qui pourrons juger de la gravité de vos symptomes et vous conseillerons sur la conduite à tenir. La réalisation d’un bilan en ambulatoire voire une hospitalisation en unité de soins seront  peut etre nécessaires.
-
-
 
 ## L'appel à la greffe
 

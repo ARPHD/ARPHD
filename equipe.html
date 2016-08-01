@@ -6,27 +6,28 @@ title: Unité de Transplantation Hépatique - Hôpital Henri Mondor Créteil
 </div>
 
 {% for title in site.data.members %}
+{% assign titleIndex = forloop.index %}
 <h3>{{title.title}}</h3>
 <div class="row">
   <ul class="lb-album">
     {% for member in title.members %}
     <li>
-      <a href="#image-{{ forloop.index }}">
+      <a href="#image-{{titleIndex}}_{{ forloop.index }}">
         <img src="images/{{member.photo}}" alt="{{ member.name }}">
         <span>{{ member.name }}</span>
       </a>
-      <div class="lb-overlay" id="image-{{ forloop.index }}">
+      <div class="lb-overlay" id="image-{{titleIndex}}_{{ forloop.index }}">
         <img src="images/{{ member.photo }}" alt="{{ member.name }}" />
         <div>
           <h3>{{member.name}}</h3>
           <p>{{member.bio}}</p>
           {% if forloop.first == false %}
           {% assign prec = forloop.index | minus: 1 %}
-          <a href="#image-{{ prec }}" class="lb-prev">Prec</a>
+          <a href="#image-{{titleIndex}}_{{ prec }}" class="lb-prev">Prec</a>
           {% endif %}
           {% if forloop.last == false %}
           {% assign suiv = forloop.index | plus: 1 %}
-          <a href="#image-{{ suiv }}" class="lb-next">Suiv</a>
+          <a href="#image-{{titleIndex}}_{{ suiv }}" class="lb-next">Suiv</a>
           {% endif %}
         </div>
         <a href="#page" class="lb-close">X Fermer</a>
