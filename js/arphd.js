@@ -106,6 +106,8 @@ function calculateChildScore(){
       default:
     }
   }
+  if(score < 5) score = 5;
+  if(score > 15) score = 15;
 
   if(score < 7)
     result.textContent = 'Classe A' + score;
@@ -138,6 +140,9 @@ function calculateLilleScore(){
 
 function calculateHERSScore(){
   var result = document.getElementById('result');
+  var result_1 = document.getElementById('result_1');
+  var result_3 = document.getElementById('result_3');
+  var result_5 = document.getElementById('result_5');
   result.classList.remove('good');
   result.classList.remove('bad');
   var score = 0;
@@ -162,8 +167,11 @@ function calculateHERSScore(){
   if(document.score.tumor.value == 'bi') score += 2;
   if(document.score.invasion.checked) score += 2;
 
-  var prob = ['3 | 7 | 8', '5 | 10 | 11', '7 | 13 | 15', '9 | 18 | 21', '12 | 24 | 28', '17 | 31 | 35', '22 | 40 | 46', '29 | 52 | 59', '39 | 64 | 71', '49 | 77 | 82', '61 | 87 | 91', '73 | 94 | 96'];
-  result.textContent = score + ': ' + prob[score];
+  var prob = [[3, 7, 8], [5, 10, 11], [7, 13, 15], [9, 18, 21], [12, 24, 28], [17, 31, 35], [22, 40, 46], [29, 52, 59], [39, 64, 71], [49, 77, 82], [61, 87, 91], [73, 94, 96]];
+  result.textContent = score;
+  result_1.textContent = prob[score][0] + '%';
+  result_3.textContent = prob[score][1] + '%';
+  result_5.textContent = prob[score][2] + '%';
   //result.classList.add(score <= 2 ? 'good' : 'bad');
 }
 
