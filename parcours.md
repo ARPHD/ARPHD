@@ -144,3 +144,7 @@ Il faut savoir que si le greffon prélevé est jugé de mauvaise qualité par le
 
 Informez la personne qui vous accompagne qu’il n’est pas nécessaire qu’elle reste à l’hopital le temps de l’intervention chirurgicale mais qu’elle  pourra avoir des informations vous concernant  dès votre sortie du bloc opératoire en appelant le service de réanimation digestive.
 
+# L'intervention
+
+# Le suivi à long terme
+
