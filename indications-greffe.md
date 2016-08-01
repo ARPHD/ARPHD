@@ -14,7 +14,7 @@ Les complications principales de la cirrhose mettant en jeu la vie et faisant di
 
 La gravité de la maladie peut être chiffrée objectivement par des scores combinant plusieurs paramètres cliniques et biologiques. Les principaux sont les scores de [Child-Pugh](scores/score_child.html) et de [MELD](scores/score_meld.html), ce dernier étant utilisé pour l’inscription sur la liste nationale d’attente de greffe.
 
-Beaucoup plus rares, les hépatites aiguës gravissimes ([hépatites fulminantes](#Indication-de-transplantation-pour-hépatite-fulminante)), au cours desquelles le pronostic vital peut être engagé en quelques jours, sont également un motif de transplantation.
+Beaucoup plus rares, les hépatites aiguës gravissimes ([hépatites fulminantes](#indication-de-transplantation-pour-hépatite-fulminante)), au cours desquelles le pronostic vital peut être engagé en quelques jours, sont également un motif de transplantation.
 
 ## Indication de transplantation pour cirrhose alcoolique
 La cirrhose alcoolique est l’indication de greffe la plus fréquente en France, mais ne représente que 25% des transplantations.
