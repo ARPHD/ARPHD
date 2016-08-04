@@ -129,7 +129,7 @@ function calculateLilleScore(){
   var pt = document.score.pt.value.replace(',', '.');
   var age = document.score.age.value;
 
-  creat = creat < 115 ? 0 : 1; 
+  creat = creat < 115 ? 0 : 1;
 
   var r = 3.19 - 0.101 * age + 0.147 * albu + 0.0165 * (bili - bili7) - 0.206 * creat - 0.0065 * bili - 0.0096 * pt;
   score = Math.exp(-r) / (1 + Math.exp(-r));
@@ -192,4 +192,42 @@ function calculateHFScore(){
 
   result_clichy.textContent = clichy ? 'Oui' : 'Non';
   result_kings.textContent = kings ? 'Oui' : 'Non';
+}
+
+function calculateSOFAScore(){
+  var result = document.getElementById('result');
+  var score;
+  var creat = document.score.creat.value.replace(',', '.');
+  var bili = document.score.bilirubin.value.replace(',', '.');
+  var inr = document.score.inr.value.replace(',', '.');
+  var plaquettes = document.score.plaquettes.value.replace(',', '.');
+  var pafi = document.score.pafi.value.replace(',', '.');
+  var encephal = document.score.encephal.value == "oui";
+  var amines = document.score.amines.value == "oui";
+
+  var prb = 0;
+  if(bili >= 205) prb++;
+  if(inr > 2.5 || plaquettes <= 20000) prb++;
+  if(pafi <= 200) prb++;
+  if(amines) prb++;
+
+  if(
+    (bili < 205 && creat < 177 && inr <= 2.5 && plaquettes > 20000 && !encephal && pafi > 200 && !amines) ||
+    (creat < 133 && !encephal && prb == 1) ||
+    (encephal && creat < 133 && bili < 205 && inr <= 2.5 && plaquettes > 20000 && pafi > 200 && !amines))
+      score = [0, 4.7];
+  else if(
+    (creat >= 177 && bili < 205 && inr <= 2.5 && plaquettes > 20000 && !encephal && pafi > 200 && !amines) ||
+    (creat >= 133 && creat <= 168 && !encephal && prb == 1) ||
+    (creat >= 133 && creat <= 168 && encephal && bili < 205 && inr <= 2.5 && plaquettes > 20000 && pafi > 200 && !amines))
+      score = [1, 22.1];
+  else{
+      if(creat >= 177) prb++;
+      if(encephal) prb++;
+
+      if(prb == 2) score = [2, 32];
+      else score = [3, 78.6];
+  }
+
+  result.textContent = 'ACLF ' + score[0] + ' mortalité 28 jours : ' + score[1] + '%';
 }

@@ -105,6 +105,9 @@
 .ac-container input:checked ~ ul.ac-6{
   height: 160px;
 }
+.ac-container input:checked ~ ul.ac-9{
+  height: 240px;
+}
 .ac-container ul li:before{
   content: '▶';
   font-size: 8px;

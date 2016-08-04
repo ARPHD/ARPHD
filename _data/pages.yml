@@ -34,7 +34,7 @@
 
     - title: Livret thérapeutique
       href: /livret.pdf
-      
+
   #  - title: Outils
   #    href: /tools.html
 
@@ -45,7 +45,7 @@
   subtitles:
     - title: Henri Mondor ARPHD
       href: http://chu-mondor.aphp.fr/
-   
+
     - title: TransHépate
       href: http://www.transhepate.org/
 
@@ -89,11 +89,11 @@
     - title: Score Fulminante
       href: /scores/score_hepatite_fulminante.html
 
-  #  - title: Score CLIF-SOFA
-  #    href: /scores/score_clif-sofa.html
+    - title: Score CLIF-SOFA
+      href: /scores/score_clif-sofa.html
 
-  #  - title: Score Mayo Clinic CBP
-  #    href: /scores/score_cbp.html
+    - title: Score Mayo Clinic CBP
+      href: /scores/score_cbp.html
 
-  #  - title: Score Mayo Clinic CSP
-  #    href: /scores/score_csp.html
+    - title: Score Mayo Clinic CSP
+      href: /scores/score_csp.html

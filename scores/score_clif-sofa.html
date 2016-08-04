@@ -1,0 +1,46 @@
+---
+title: Unité de Transplantation Hépatique - Score CLIF-SOFA
+---
+<div class="container scoreform">
+  <div class="container">
+    <h1>Score CLIF-SOFA</h1>
+    <form name="score" class="score" action="javascript:calculateSOFAScore()">
+    <fieldset>
+      <legend for="color">Bilirubine</legend>
+      <input type="text" name="bilirubin"><label for="bilirubin">&micro;mol/L</label>
+    </fieldset>
+      <fieldset>
+        <legend for="size">Creatinine</legend>
+        <input type="text" name="creat"><label for="creat">&micro;mol/L</label>
+      </fieldset>
+      <fieldset>
+        <legend for="opinion">INR</legend>
+        <input type="text" name="inr">
+      </fieldset>
+      <fieldset>
+        <legend for="opinion">Plaquettes</legend>
+        <input type="text" name="plaquettes">
+      </fieldset>
+      <fieldset>
+        <legend for="opinion">Pa02/FiO2</legend>
+        <input type="text" name="pafi">
+      </fieldset>
+      <fieldset>
+        <legend>Encephalopathie stade 3-4</legend>
+        <input type="radio" name="encephal" value="non" id="non_encephal"><label for="non_encephal"><span><span></span></span>Non</label>
+        <input type="radio" name="encephal" value="oui" id="oui_encephal"><label for="oui_encephal"><span><span></span></span>Oui</label>
+      </fieldset>
+      <fieldset>
+        <legend>Amines pressives/Terlipressine</legend>
+        <input type="radio" name="amines" value="non" id="non_amines"><label for="non_amines"><span><span></span></span>Non</label>
+        <input type="radio" name="amines" value="oui" id="oui_amines"><label for="oui_amines"><span><span></span></span>Oui</label>
+      </fieldset>
+      <input type="submit" value="Calculer">
+    </form>
+    <div class="score">
+    Score
+    <div id="result"></div>
+    </div>
+<p class='ref'>D’après Moreau R et al, Clin Gastroenterol Hepatol 2015 ;13:836-41</p>
+  </div>
+</div>
