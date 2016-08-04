@@ -23,7 +23,10 @@
   icon: info-sign
   opened: false
   subtitles:
-    - title: Parcours de soins à H. Mondor
+    - title: Quand envisager une greffe ?
+      href: /indications-greffe.html
+
+    - title: Parcours de soin à H. Mondor
       href: /parcours.html
 
     - title: Questions fréquentes
@@ -31,9 +34,6 @@
 
     - title: Livret thérapeutique
       href: /livret.pdf
-
-    - title: Indications de la transplantation
-      href: /indications-greffe.html
       
   #  - title: Outils
   #    href: /tools.html
@@ -60,14 +60,14 @@
   #  - title: Données sur la greffe
   #    href: /transplant_data.html
 
-  #  - title: Actualité du congrès
-  #    href: /events.html
+    - title: Actualité des congrès
+      href: /events.html
 
   #  - title: Sociétés savantes
   #    href: /learned_society.html
 
 - id: 4
-  title: Scores utiles en transplantation hépatique
+  title: Aide a la décision en transplantation hépatique
   icon: scale
   opened: false
   subtitles:
@@ -80,7 +80,7 @@
     - title: Score aFoetoProteine
       href: /scores/score_afp.html
 
-    - title: Score HERS
+    - title: Score HERS (Explant & Recidive)
       href: /scores/score_hers.html
 
     - title: Score de Lille

@@ -9,7 +9,7 @@
       photo: elisabeth-martin.jpg
 
     - name: Nadia Chabou
-      bio: Infirmière coordinatrice au CHU Henri Mondor de Créteil
+      bio: Secrétaire de coordination au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
     - name: Norbert Ngongang
@@ -18,79 +18,79 @@
 
 - title: Hépatologues
   members:
-    - name: Christophe Duvoux
-      bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
+    - name: Pr. Christophe Duvoux
+      bio: Hépatologue au CHU Henri Mondor de Créteil
       photo: christophe-duvoux.jpg
 
-    - name: Jean-Philippe Richardet
+    - name: Dr. Jean-Philippe Richardet
       bio: Praticien hospitalier au CHU Henri Mondor de Créteil
       photo: jph-richardet.jpg
 
-    - name: Christophe Hézode
+    - name: Pr. Christophe Hézode
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: christophe-hezode.jpg
 
-    - name: Charlotte Costentin
+    - name: Dr. Charlotte Costentin
       bio: Praticien hospitalier au CHU Henri Mondor de Créteil
       photo: charlotte-costentin.jpg
 
-    - name: Cyrille Feray
-      bio: Hépatologue au CHU Henri Mondor de Créteil
+    - name: Pr. Cyrille Feray
+      bio: Hépatologue, clinicien chercheur au CHU Henri Mondor de Créteil
       photo: cyrille-feray.jpg
 
-    - name: Giuliana Amaddeo
+    - name: Dr. Giuliana Amaddeo
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: giuliana-amaddeo.jpg
 
-    - name: Catherine Douvin
+    - name: Dr. Catherine Douvin
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
-    - name: Ariane Mallat
+    - name: Pr. Ariane Mallat
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
 - title: Chirurgiens
   members:
-    - name: Daniel Azoulay
+    - name: Pr. Daniel Azoulay
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
-    - name: Philippe Compagnon 
+    - name: Pr. Philippe Compagnon 
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
-    - name: Alexis Laurent
-      bio: Chirurgien hépatique et transplanteur au CHU Henri Mondor de Créteil
+    - name: Pr. Alexis Laurent
+      bio: Chirurgien hépatique au CHU Henri Mondor de Créteil
       photo: alexis-laurent.jpg
 
-    - name: Chady Salloum
+    - name: Dr. Chady Salloum
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
 - title: Anesthésistes Réanimateurs
   members:
-    - name: Jean-Claude Merle
+    - name: Dr. Jean-Claude Merle
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
-    - name: Yves Heurtemate
+    - name: Dr. Yves Heurtemate
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
-    - name: Jean-Yves Lauzet
+    - name: Dr. Jean-Yves Lauzet
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
-    - name: Eric Levesque
+    - name: Dr. Eric Levesque
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
-    - name: Christian Lomboto
+    - name: Dr. Christian Lomboto
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
-    - name: Marianne Cojocaru
+    - name: Dr. Marianne Cojocaru
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
