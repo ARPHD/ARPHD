@@ -202,7 +202,8 @@ function calculateSOFAScore(){
   var inr = document.score.inr.value.replace(',', '.');
   var plaquettes = document.score.plaquettes.value.replace(',', '.');
   var pafi = document.score.pafi.value.replace(',', '.');
-  var encephal = document.score.encephal.value == "oui";
+  var encephal = document.score.encephal.value;
+  var hasEncephal = document.score.encephal.value == "high";
   var amines = document.score.amines.value == "oui";
 
   var prb = 0;
@@ -212,18 +213,19 @@ function calculateSOFAScore(){
   if(amines) prb++;
 
   if(
-    (bili < 205 && creat < 177 && inr <= 2.5 && plaquettes > 20000 && !encephal && pafi > 200 && !amines) ||
-    (creat < 133 && !encephal && prb == 1) ||
-    (encephal && creat < 133 && bili < 205 && inr <= 2.5 && plaquettes > 20000 && pafi > 200 && !amines))
+    (bili < 205 && creat < 177 && inr <= 2.5 && plaquettes > 20000 && !hasEncephal && pafi > 200 && !amines) ||
+    (creat < 133 && !hasEncephal && prb == 1) ||
+    (hasEncephal && creat < 133 && bili < 205 && inr <= 2.5 && plaquettes > 20000 && pafi > 200 && !amines))
       score = [0, 4.7];
   else if(
-    (creat >= 177 && bili < 205 && inr <= 2.5 && plaquettes > 20000 && !encephal && pafi > 200 && !amines) ||
-    (creat >= 133 && creat <= 168 && !encephal && prb == 1) ||
-    (creat >= 133 && creat <= 168 && encephal && bili < 205 && inr <= 2.5 && plaquettes > 20000 && pafi > 200 && !amines))
+    (creat >= 177 && bili < 205 && inr <= 2.5 && plaquettes > 20000 && !hasEncephal && pafi > 200 && !amines) ||
+    (creat >= 133 && creat <= 168 && !hasEncephal && prb == 1) ||
+    (creat >= 133 && creat <= 168 && hasEncephal && bili < 205 && inr <= 2.5 && plaquettes > 20000 && pafi > 200 && !amines) ||
+    (encephal == 'mid' && creat <= 168 && prb == 1))
       score = [1, 22.1];
   else{
       if(creat >= 177) prb++;
-      if(encephal) prb++;
+      if(hasEncephal) prb++;
 
       if(prb == 2) score = [2, 32];
       else score = [3, 78.6];
