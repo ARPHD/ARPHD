@@ -179,7 +179,7 @@ function calculateHFScore(){
   var result_clichy = document.getElementById('result_clichy');
   var result_kings = document.getElementById('result_kings');
   var score = document.score;
-  var clichy = score.coma.value == 'oui' && ((score.facteur.value < 20 && score.age.value < 30) || (score.facteur.value < 30 && score.age >= 30));
+  var clichy = score.coma.value == 'oui' && ((score.facteur.value < 20 && score.age.value < 30) || (score.facteur.value < 30 && score.age.value >= 30));
 
   var atLeastThree = 0;
   if(score.inr.value > 3.5) atLeastThree++;
