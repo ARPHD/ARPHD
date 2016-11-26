@@ -1,8 +1,10 @@
 ---
 title: Unité de Transplantation Hépatique - Questions fréquentes
 layout: collapse
-h1: FAQ
+h1: Questions fréquentes
 ---
+# Pré-opératoire
+
 ### Pourquoi me prescrit on un régime sans sel ?
 Lorsque la cirrhose du foie est avancée (on dit aussi décompensée), votre foie fonctionne moins bien, ce qui explique l'apparition d'un liquide séreux appelé "ascite" dans la cavité abdominale. Ce liquide peut augmenter de volume au fil du temps et aller jusqu'à une dizaine de litres.
 
@@ -86,3 +88,5 @@ De plus le temps d’attente des patients inscrits pour une greffe pour cancer e
 ### Comment me rendre à l’hôpital le jour de l’appel à la greffe ?
 
 ### En combien de temps ?
+
+# Post-opératoire

@@ -1,35 +1,24 @@
 ---
 layout: default
 ---
-<h1 id={{ page.h1 }}>{{ page.h1 }}</h1>
-{% assign questions = content | escape | split:"&lt;h3" %}
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  {% for q in questions %}
-    {% if q != "" %}
-      <div class="panel panel-default">
-        <div class="panel-heading" role="tab" id="question_{{ forloop.index}}">
-          <h4 class="panel-title">
-            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse_{{ forloop.index }}" aria-expanded="false" aria-controls="collapse_{{ forloop.index }}">
-                {% assign  tokens = q | split:"&gt;" %}
-                {% for title in tokens %}
-                  {% if forloop.index == 2 %}
-                    {{ title | split:"&lt;" | first }}
-                  {% endif %}
-                {% endfor %}
-
-            </a>
-          </h4>
-        </div>
-        <div id="collapse_{{ forloop.index }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="question_{{ forloop.index }}">
-          <div class="panel-body">
-            {% assign answer = q | split:"&lt;p&gt;" %}
-            {% assign lenght = answer | size %}
-            {% if lenght != 1 %}
-              {{ answer | last | replace:"&lt;/p&gt;",""}}
-            {% endif %}
-          </div>
-        </div>
-      </div>
-    {% endif %}
-  {% endfor %}
+<h1 id={{ page.h1 | replace: ' ', '_'}}>{{ page.h1 }}</h1>
+<div>
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#preop" aria-controls="preop" role="tab" data-toggle="tab">Pré-opératoire</a></li>
+    <li role="presentation"><a href="#postop" aria-controls="postop" role="tab" data-toggle="tab">Post-opératoire</a></li>
+  </ul>
+  <!-- Tab panes -->
+  <div class="tab-content">
+    {% assign tabs = content | split:"<h1" %}
+    {% for page in tabs %}
+      {% if forloop.first == false %}
+        {% case forloop.index %}
+          {% when 2 %}
+          <div role="tabpanel" class="tab-pane active" id="preop"><h1{{ page | collapse }}</div>
+          {% when 3 %}
+          <div role="tabpanel" class="tab-pane" id="postop"><h1{{ page | collapse }}</div>
+        {% endcase %}
+      {% endif %}
+    {% endfor %}
+    </div>
 </div>

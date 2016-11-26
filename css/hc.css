@@ -389,7 +389,7 @@ pre
 
 #welcome-greeting > h2, #welcome-greeting > p, #welcome-greeting li
 {
-  font-size:2em;
+  font-size:1.3em;
   font-weight:100;
   color:#2e2e2e;
   padding-top:0;
@@ -465,7 +465,8 @@ pre
 
 img
 {
-  max-width:100%;
+  max-width:70%;
+  margin: 15px;
 }
 
 #article
@@ -802,6 +803,12 @@ div.scoreform, div.scoreform div{
   padding: 0;
 }
 
+#result_clichy, #result_kings {
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-top: 5px;
+}
+
 form.score {
   font-size: 20px;
  width:35em;
@@ -831,7 +838,8 @@ form.score input[type=radio], form.score input[type=checkbox]{
   opacity   : 0;
 }
 
-input[type=radio]:not(old) + label, input[type=checkbox]:not(old) + label{
+.score input[type=radio]:not(old) + label,
+.score input[type=checkbox]:not(old) + label{
   display      : inline-block;
   margin-left  : -2em;
   line-height  : 1.5em;
@@ -903,6 +911,12 @@ form.score input[type="submit"]{
   display: block;
   overflow: hidden;
   max-height: 0;
+}
+
+/* Collapse */
+
+.panel-title a {
+  display: block;
 }
 
 #article h1,#article h2,#article h3

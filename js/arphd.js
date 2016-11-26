@@ -190,8 +190,20 @@ function calculateHFScore(){
 
   var kings = (score.etio.value == 'paracetamol' && score.ph.value < 7.3) || (score.etio.value == 'paracetamol' && score.lactate.value > 3) || (score.etio.value == 'paracetamol' && score.coma.value == 'oui' && score.creat.value > 300 && score.inr.value > 6.5) || (score.etio.value != 'paracetamol' && score.inr.value > 6.5) || (score.etio.value != 'paracetamol' && atLeastThree >= 3);
 
-  result_clichy.textContent = clichy ? 'Oui' : 'Non';
-  result_kings.textContent = kings ? 'Oui' : 'Non';
+  if(clichy){
+    result_clichy.textContent = 'Oui'
+    result_clichy.classList.add('good');
+  } else {
+    result_clichy.textContent = 'Non'
+    result_clichy.classList.add('bad');
+  }
+  if(kings){
+    result_kings.textContent = 'Oui'
+    result_kings.classList.add('good');
+  } else {
+    result_kings.textContent = 'Non'
+    result_kings.classList.add('bad');
+  }
 }
 
 function calculateSOFAScore(){
