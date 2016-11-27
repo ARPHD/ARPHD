@@ -2,7 +2,9 @@ module Jekyll
   module Collapse
     def collapse(input)
       questions = input.split("<h3")
-      output = questions.shift() + '<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">'
+      # Remove first, it's a residue of h1
+      questions.shift();
+      output = '<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">'
       id = 1
       for q in questions
         if q != ""
@@ -14,14 +16,8 @@ module Jekyll
           tokens = q.split(">")
           j = 0
           for title in tokens
-            #if id == 1
-            #  puts "Tokens" + tokens.to_s
-            #end
             if j == 1
               output += title.split("<")[0]
-              if id == 1
-                puts "Title" + title.split("<")[0]
-              end
             end
             j += 1
           end
@@ -31,8 +27,12 @@ module Jekyll
           <div class="panel-body">'
 
           answer = q.split("<p>")
-          if answer.length != 1
-            output += answer.last.sub('</p>', '')
+          k = 0;
+          for a in answer
+            if k != 0 and a.length != 0
+              output += '<p>' + a
+            end
+            k += 1
           end
 
           output += '</div></div></div>'

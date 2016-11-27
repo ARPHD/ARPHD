@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-<title>Unité de Transplantation Hépatique - Score Hépatite fulminante</title>
+<title>Unité de Transplantation Hépatique - Prise en charge sociale</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Hôpital Henri Mondor Créteil, France">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -240,68 +240,69 @@
 </div>
 
       <div class="container">
-        <div class="container scoreform">
-  <div class="container">
-    <h1>Score Hépatite fulminante</h1>
-    <form name="score" class="score" action="javascript:calculateHFScore()">
-      <fieldset>
-        <legend>Age</legend>
-        <input type="number" id="age"><label for="age">ans</label>
-      </fieldset>
-      <fieldset>
-	<legend>Etiologie</legend>
-        <input type="radio" name="etio" value="paracetamol" id="paracetamol_etio"><label for="paracetamol_etio"><span><span></span></span>Paracetamol</label>
-        <input type="radio" name="etio" value="medoc" id="medoc_etio"><label for="medoc_etio" ><span><span></span></span>Médicament hors paracetamol</label>
-        <input type="radio" name="etio" value="other" id="other_etio"><label for="other_etio" style="margin-left: 20px"><span><span></span></span>Autre</label>
-        <input type="radio" name="etio" value="unknown" id="unknown_etio"><label for="unknown_etio"><span><span></span></span>Indeterminé</label>
-      </fieldset>
-      <fieldset>
-        <legend>Confusion ou coma</legend>
-        <input type="radio" name="coma" value="non" id="non_coma"><label for="non_coma"><span><span></span></span>Non</label>
-        <input type="radio" name="coma" value="oui" id="oui_coma"><label for="oui_coma"><span><span></span></span>Oui</label>
-      </fieldset>
-      <fieldset>
-        <legend>Délai ictère-encéphalopathie</legend>
-        <input type="radio" name="delai" value="low" id="low_delai"><label for="low_delai"><span><span></span></span>&le; 7 jours</label>
-        <input type="radio" name="delai" value="mid" id="mid_delai"><label for="mid_delai"><span><span></span></span>&gt; 7 jours</label>
-      </fieldset>
-      <fieldset>
-        <legend>INR</legend>
-        <input type="text" name="inr" id="inr">
-      </fieldset>
-      <fieldset>
-        <legend>Facteur V</legend>
-        <input type="text" name="facteur" id="facteur"><label for="facteur">%</label>
-      </fieldset>
-      <fieldset>
-        <legend>Bilirubine</legend>
-        <input type="text" name="bili" id="bili"><label for="bili">&micro;mol/L</label>
-      </fieldset>
-      <fieldset>
-        <legend>Créatinine</legend>
-        <input type="text" name="creat" id="creat"><label for="creat">&micro;mol/L</label>
-      </fieldset>
-      <fieldset>
-        <legend>PH artériel</legend>
-        <input type="text" name="ph" id="ph">
-      </fieldset>
-      <fieldset>
-        <legend>Lactate artériel</legend>
-        <input type="text" name="lactate" id="lactate"><label for="lactate">mmol/L</label>
-      </fieldset>
-      <input type="submit" value="Calculer">
-    </form>
-    <div class="score" style="width: 100%;min-height: 2em;padding-top:10px"><p style="font-weight: bold;">Indication de greffe</p></div>
-    <div class="score" style="min-width:50%;">
-    Selon Clichy-Beaujon
-    <div id="result_clichy"></div>
-    </div>
-    <div class="score" style="min-width:50%;">
-    Selon King's College
-    <div id="result_kings"></div>
-    </div>
-  </div>
-</div>
+        <h1 id="prise-en-charge-et-inscription--la-liste">Prise en charge et inscription à la liste</h1>
+
+<p>Pour être inscrit sur liste d’<strong>attente</strong> de greffe à l’agence de bio médecine, <em>la direction de l’hôpital, à savoir le service des frais de séjours de l’hôpital (via la cellule internationale)</em> requièrent <strong>une prise en charge</strong>.</p>
+
+<p><strong>Elle doit pouvoir couvrir les frais d’hospitalisation, le suivi post-greffe ( cs, examens médicaux, analyses  etc… ) et le traitement médicamenteux</strong></p>
+
+<h2 id="pour-les-patients-rsidant-en-france-francais-ou-patients-trangers-avec-titre-de-sjour-">Pour les patients résidant en France ( francais ou patients étrangers avec titre de séjour ) :</h2>
+
+<p>Il faut donc  bénéficier d’ une ouverture de droits auprès d’un organisme de sécurité sociale et D une couverture complémentaire.</p>
+
+<ul>
+  <li>
+    <p><strong>Ouverture de droits au titre du régime salarié ou non salarié et travailleurs indépendants</strong> avec cotisations auprès des caisses d’assurance maladie ( caisse primaire d’assurance maladie CPAM pour le régime général , caisse des travailleurs indépendants , exemple : RSI régime social des travailleurs indépendants et la caisse de polynésie pour les polynésiens)</p>
+  </li>
+  <li>
+    <p>La prise en charge complémentaire :</p>
+  </li>
+  <li>
+    <p>Pour couvrir le ticket modérateur ( 20% du prix de journée d’hospitalisation et des soins ) il faut être à 100% au titre de l’ affection de longue durée auprès de la caisse de sécurité sociale  et ou bénéficier de la CMUC ( couverture maladie universelle complémentaire sous conditions de ressources … Plafonds sur ameli.fr … Exemple personne seule ne pas dépasser 721€/ mois toutes ressources confondues)</p>
+  </li>
+  <li>
+    <p>Le forfait journalier à régler en complément du prix de journée d’ hospitalisation est de 18€/jour ( augmenté dans tous les établissements hospitaliers certaines années). Il peut être couvert par :</p>
+  </li>
+  <li>
+    <p>la CMU complémentaire</p>
+  </li>
+  <li>
+    <p>une mutuelle .</p>
+  </li>
+</ul>
+
+<p>Pour souscrire à une mutuelle le primordial dans le contrat proposé doit être la couverture A 100% des soins ,  des frais d’ hospitalisation et du forfait journalier de manière illimitée et sans délai de carence.</p>
+
+<p>Pour bien choisir sa mutuelle il vaut mieux solliciter des devis auprès de différentes mutuelles afin de comparer les tarifs et les modules proposés.</p>
+
+<blockquote>
+  <p>pour notre info l’AME couvre la totalité du prix de journée et le forfait</p>
+</blockquote>
+
+<h2 id="pour-les-patients-demeurant---ltranger">Pour les patients demeurant  à l’étranger :</h2>
+
+<ul>
+  <li>
+    <p>En tant que <strong>ressortissant européen actif</strong> avec acceptation de la caisse de sécurité sociale du pays d’ origine :  prise en charge S2 à demander avant de venir se faire soigner en France sur devis établis par les médecins, chiffrés par la cellule internationale des frais de séjours de l’hôpital et envoyé à la caisse du pays d’origine.</p>
+  </li>
+  <li>
+    <p>En tant que <strong>ressortissant européen inactif</strong> :
+avec preuves de présence depuis plus d’1 an en France c’est l’Aide Médicale d’Etat ( AME) qui requiert les mêmes critères que la CMUC pour les ressources  ( ne pas dépasser le plafond de 721€/mois pour une personne seule)</p>
+
+    <p>Si plus de 3 mois en France et moins d’1 an la demande de prise en charge est faite aux relations internationales de la sécurité sociale qui va interroger la caisse du pays d’origine pour vérifier si le patient bénéficie de droits dans son pays, si pas de droits dans le pays d’origine l’AME est possible</p>
+
+    <p>Si le patient est actif en France ou bénéficiaire du RSA et/ou peut justifier de plus de 5 ans de présence en France c’est l’affiliation sur critère de résidence ( ancienne CMU de base)
+Pour toutes les demandes d’AME, CMUC et  Affiliation sur critère de résidence il faut justifier d’un hébergement en France ( ou à défaut d’une domiciliation établit par un organisme social tel que la croix rouge fraçaise, emmaüs..très difficile à obtenir car très sollicités. ,ont un quotat de domiciliation à respecter très souvent dépassé).</p>
+  </li>
+  <li>
+    <p>Pour <strong>les ressortissants algériens</strong> la procédure est la même mais la prise en charge est à solliciter auprès de la caisse algérienne ( la CNAS)</p>
+  </li>
+  <li>
+    <p><strong>Pour les ressortissants des autres pays</strong> : meme procédure : au vu d un certif med détaillé , établissement  d un devis par  la cellule que le patient enverra à l’organisme qui prendrait en charge cette greffe :  ambassade, gouvernement du pays, employeur, assurance…</p>
+
+    <p>Le service des frais de séjours exigent au moins 15 jours avant l’admission à l’hôpital la prise en charge écrite ou le versement des frais.</p>
+  </li>
+</ul>
 
       </div>
       <div class="container">

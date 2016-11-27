@@ -928,6 +928,27 @@ form.score input[type="submit"]{
   opacity: 1;
 }
 
+/* Nutrition */
+
+img[alt=Amis], img[alt=Pret] {
+  max-width: 100px;
+  float: right;
+}
+
+img[alt=Nourriture],
+img[alt=Complements] {
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+}
+
+img[alt=Graphique] {
+  display: block;
+  width: 400px;
+  margin: 30px auto;
+}
+
+
 @media (max-width:767px) {
 
 #wrapper {

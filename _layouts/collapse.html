@@ -14,9 +14,9 @@ layout: default
       {% if forloop.first == false %}
         {% case forloop.index %}
           {% when 2 %}
-          <div role="tabpanel" class="tab-pane active" id="preop"><h1{{ page | collapse }}</div>
+          <div role="tabpanel" class="tab-pane active" id="preop">{{ page | collapse }}</div>
           {% when 3 %}
-          <div role="tabpanel" class="tab-pane" id="postop"><h1{{ page | collapse }}</div>
+          <div role="tabpanel" class="tab-pane" id="postop">{{ page | collapse }}</div>
         {% endcase %}
       {% endif %}
     {% endfor %}
