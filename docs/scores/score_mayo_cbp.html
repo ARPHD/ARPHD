@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-<title>Unité de Transplantation Hépatique - Score CLIF-SOFA</title>
+<title>Unité de Transplantation Hépatique - Score Mayo Clinic CBP</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Hôpital Henri Mondor Créteil, France">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -242,46 +242,44 @@
       <div class="container">
         <div class="container scoreform">
   <div class="container">
-    <h1>Score CLIF-SOFA</h1>
-    <form name="score" class="score" action="javascript:calculateSOFAScore()">
-    <fieldset>
-      <legend for="color">Bilirubine</legend>
-      <input type="text" name="bilirubin"><label for="bilirubin">&micro;mol/L</label>
-    </fieldset>
+    <h1>Score Mayo Clinic CBP</h1>
+    <form name="score" class="score" action="javascript:calculateMayoCBP()">
       <fieldset>
-        <legend for="size">Creatinine</legend>
-        <input type="text" name="creat"><label for="creat">&micro;mol/L</label>
+        <legend>Age du patient</legend>
+        <input type="number" name="age"><label for="age">ans</label>
       </fieldset>
       <fieldset>
-        <legend for="opinion">INR</legend>
-        <input type="text" name="inr">
+        <legend>Bilirubine</legend>
+        <input type="text" name="bilirubin"><label for="bilirubin">&micro;mol/L</label>
       </fieldset>
       <fieldset>
-        <legend for="opinion">Plaquettes</legend>
-        <input type="text" name="plaquettes">
+        <legend>Albumine</legend>
+        <input type="text" name="albumine"><label for="albumine">g/L</label>
       </fieldset>
       <fieldset>
-        <legend for="opinion">Pa02/FiO2</legend>
-        <input type="text" name="pafi">
+        <legend>Temps de prothrombine</legend>
+        <input type="text" name="pt"><label for="pt">sec</label>
       </fieldset>
       <fieldset>
-        <legend>Encephalopathie stade 3-4</legend>
-        <input type="radio" name="encephal" value="low" id="low_encephal"><label for="low_encephal"><span><span></span></span>Absence</label>
-        <input type="radio" name="encephal" value="mid" id="mid_encephal"><label for="mid_encephal"><span><span></span></span>Stade 1-2</label>
-        <input type="radio" name="encephal" value="high" id="high_encephal"><label for="high_encephal"><span><span></span></span>Stade 3-4</label>
-      </fieldset>
-      <fieldset>
-        <legend>Amines pressives/Terlipressine</legend>
-        <input type="radio" name="amines" value="non" id="non_amines"><label for="non_amines"><span><span></span></span>Non</label>
-        <input type="radio" name="amines" value="oui" id="oui_amines"><label for="oui_amines"><span><span></span></span>Oui</label>
+      	<legend>Score oedeme</legend>
+	<input id="no_oedeme" name="oedeme" value="0" type="radio">
+	<label for="no_oedeme"><span><span></span></span>Pas d'oedeme sans traitement diurétique</label>
+	<input id="oedeme" name="oedeme" value="1" type="radio">
+	<label for="oedeme"><span><span></span></span>Oedemes en dépit d'un traitement diurétique</label>
+	<input id="other_oedeme" name="oedeme" value="0.5" type="radio">
+	<label for="other_oedeme"><span><span></span></span>Autres situations</label>
       </fieldset>
       <input type="submit" value="Calculer">
     </form>
     <div class="score">
-    Score
+    Probabilité de survie
+      <table class="table">
+        <tr><th>1 ans</th><th>2 an</th><th>3 ans</th><th>4 ans</th><th>5 ans</th><th>6 ans</th><th>7 ans</th></tr>
+        <tr><td id='result_1'></td><td id='result_2'></td><td id='result_3'></td><td id='result_4'></td><td id='result_5'></td><td id='result_6'></td><td id='result_7'></td></tr>
+      </table>
     <div id="result"></div>
     </div>
-<p class='ref'>D’après Moreau R et al, Clin Gastroenterol Hepatol 2015 ;13:836-41</p>
+<p class="ref">D'après Dickson E. et al, Hepatology 1989;10:1-7</p>
   </div>
 </div>
 

@@ -1,0 +1,45 @@
+---
+title: Unité de Transplantation Hépatique - Score Mayo Clinic CBP
+---
+<div class="container scoreform">
+  <div class="container">
+    <h1>Score Mayo Clinic CBP</h1>
+    <form name="score" class="score" action="javascript:calculateMayoCBP()">
+      <fieldset>
+        <legend>Age du patient</legend>
+        <input type="number" name="age"><label for="age">ans</label>
+      </fieldset>
+      <fieldset>
+        <legend>Bilirubine</legend>
+        <input type="text" name="bilirubin"><label for="bilirubin">&micro;mol/L</label>
+      </fieldset>
+      <fieldset>
+        <legend>Albumine</legend>
+        <input type="text" name="albumine"><label for="albumine">g/L</label>
+      </fieldset>
+      <fieldset>
+        <legend>Temps de prothrombine</legend>
+        <input type="text" name="pt"><label for="pt">sec</label>
+      </fieldset>
+      <fieldset>
+      	<legend>Score oedeme</legend>
+	<input id="no_oedeme" name="oedeme" value="0" type="radio">
+	<label for="no_oedeme"><span><span></span></span>Pas d'oedeme sans traitement diurétique</label>
+	<input id="oedeme" name="oedeme" value="1" type="radio">
+	<label for="oedeme"><span><span></span></span>Oedemes en dépit d'un traitement diurétique</label>
+	<input id="other_oedeme" name="oedeme" value="0.5" type="radio">
+	<label for="other_oedeme"><span><span></span></span>Autres situations</label>
+      </fieldset>
+      <input type="submit" value="Calculer">
+    </form>
+    <div class="score">
+    Probabilité de survie
+      <table class="table">
+        <tr><th>1 ans</th><th>2 an</th><th>3 ans</th><th>4 ans</th><th>5 ans</th><th>6 ans</th><th>7 ans</th></tr>
+        <tr><td id='result_1'></td><td id='result_2'></td><td id='result_3'></td><td id='result_4'></td><td id='result_5'></td><td id='result_6'></td><td id='result_7'></td></tr>
+      </table>
+    <div id="result"></div>
+    </div>
+<p class="ref">D'après Dickson E. et al, Hepatology 1989;10:1-7</p>
+  </div>
+</div>

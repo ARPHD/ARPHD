@@ -245,3 +245,34 @@ function calculateSOFAScore(){
 
   result.textContent = 'ACLF ' + score[0] + ' mortalité 28 jours : ' + score[1] + '%';
 }
+
+function calculateMayoCBP(){
+  var albu = document.score.albumine.value.replace(',', '.');
+  var bili = document.score.bilirubin.value.replace(',', '.') / 17.1;
+  var pt = document.score.pt.value.replace(',', '.');
+  var age = document.score.age.value;
+  var oedeme = parseFloat(document.score.oedeme.value);
+
+  var score = 0.039 * age + 0.871 * Math.log(bili) - 2.53 * Math.log(albu) + 2.38 * Math.log(pt) + 0.859 * oedeme;
+
+  getSurvivability(score, [0.97, 0.94, 0.88, 0.83], 5.07);
+}
+
+function calculateMayoCSP() {
+  var albu = document.score.albumine.value.replace(',', '.') / 10;
+  var bili = document.score.bilirubin.value.replace(',', '.') / 17.1;
+  var asat = document.score.asat.value;
+  var age = document.score.age.value;
+  var atcd = parseInt(document.score.atcd.value);
+
+  var score = 0.0295 * age + 0.5373 * Math.log(bili) - 0.8389 * albu + 0.5380 * Math.log(asat) + 1.2426 * atcd;
+  window.alert("Score: " + score);
+  getSurvivability(score, [0.963, 0.919, 0.873, 0.833], 1);
+}
+
+function getSurvivability(score, constants, scoreModifier) {
+  for(var i = 0; i < constants.length; i++) {
+    var cell = document.getElementById("result_" + (i + 1));
+    cell.textContent = trimNumber(Math.pow(constants[i], Math.exp(score-scoreModifier)) * 100, 0) + "%";
+  }
+}
