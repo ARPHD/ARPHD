@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-<title>Unité de Transplantation Hépatique - Score Mayo Clinic CBP</title>
+<title>Unité de Transplantation Hépatique - Score Mayo Clinic CSP</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Hôpital Henri Mondor Créteil, France">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -242,7 +242,7 @@
       <div class="container">
         <div class="container scoreform">
   <div class="container">
-    <h1>Score Mayo Clinic CBP</h1>
+    <h1>Score Mayo Clinic CSP</h1>
     <form name="score" class="score" action="javascript:calculateMayoCSP()">
       <fieldset>
         <legend>Age du patient</legend>
@@ -250,33 +250,38 @@
       </fieldset>
       <fieldset>
         <legend>Bilirubine</legend>
-        <input type="text" name="bilirubin"><label for="bilirubin">&micro;mol/L</label>
+        <input type="number" name="bilirubin"><label for="bilirubin">&micro;mol/L</label>
       </fieldset>
       <fieldset>
         <legend>Albumine</legend>
-        <input type="text" name="albumine"><label for="albumine">g/L</label>
+        <input type="number" name="albumine"><label for="albumine">g/L</label>
       </fieldset>
       <fieldset>
         <legend>ASAT</legend>
-        <input type="text" name="asat"><label for="asat">UI/L</label>
+        <input type="number" name="asat"><label for="asat">UI/L</label>
       </fieldset>
       <fieldset>
-        <legend>Antécedents de rupture de varice oesophagienne</legend>
-	<input id="no_atcd" name="atcd" value="0" type="radio">
-	<label for="no_atcd"><span><span></span></span>Non</label>
-	<input id="atcd" name="oedeme" value="1" type="radio">
-	<label for="atcd"><span><span></span></span>Oui</label>
+        <legend>Antécedent de rupture de varices &oelig;sophagiennes</legend>
+      	<input id="no_atcd" name="atcd" value="0" type="radio">
+      	<label for="no_atcd"><span><span></span></span>Non</label>
+      	<input id="atcd" name="atcd" value="1" type="radio">
+      	<label for="atcd"><span><span></span></span>Oui</label>
       </fieldset>
       <input type="submit" value="Calculer">
     </form>
     <div class="score">
     Probabilité de survie
       <table class="table">
-        <tr><th>1 ans</th><th>2 an</th><th>3 ans</th><th>4 ans</th></tr>
-        <tr><td id='result_1'></td><td id='result_2'></td><td id='result_3'></td><td id='result_4'></td></tr>
+        <tr><th>1 an</th><th>2 ans</th><th>3 ans</th><th>4 ans</th></tr>
+        <tr>
+          <td id='result_1'></td>
+          <td id='result_2'></td>
+          <td id='result_3'></td>
+          <td id='result_4'></td>
+        </tr>
       </table>
-    </iv>
-<p class="ref">D'après Kim W. et al, Mayo Clin Proc 2000;75:688-94</p>
+    </div>
+    <p class="ref">D'après Kim W. et al, Mayo Clin Proc 2000;75:688-94</p>
   </div
 </div>
 

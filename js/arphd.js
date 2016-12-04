@@ -1,3 +1,5 @@
+var LOCALSTORAGE_KEY = 'arphd.navState';
+
 window.onload = function() {
   // Fade in
   var containers = document.getElementsByClassName('container');
@@ -32,11 +34,23 @@ window.onload = function() {
       target.style.animation = target.classList.contains('collapse')?'unfold 1s':'fold 1s';
     }
   }
-}
 
-function trimNumber(num, digitAfterComma){
-  var mult = Math.pow(10, digitAfterComma);
-  return Math.round(num * mult) / mult;
+  // Register navigation state
+  document.querySelectorAll('.ac-container > input').forEach(function(menu){
+    menu.onclick = function () {
+      var state = JSON.parse(localStorage.getItem(LOCALSTORAGE_KEY)) || {};
+      state[this.id] = this.checked;
+      localStorage.setItem(LOCALSTORAGE_KEY, JSON.stringify(state));
+    }
+  });
+
+  // Reapply previous state
+  var state = JSON.parse(localStorage.getItem(LOCALSTORAGE_KEY));
+  if(state) {
+    Object.keys(state).forEach(function(menu){
+      document.getElementById(menu).checked = state[menu];
+    });
+  }
 }
 
 function calculateAFPScore(){
@@ -85,7 +99,7 @@ function calculateMELDScore(){
   else if(score > 40)
     score = 40;
 
-  result.textContent = trimNumber(score, 0);
+  result.textContent = score.toFixed(0);
 }
 
 function calculateChildScore(){
@@ -134,7 +148,7 @@ function calculateLilleScore(){
   var r = 3.19 - 0.101 * age + 0.147 * albu + 0.0165 * (bili - bili7) - 0.206 * creat - 0.0065 * bili - 0.0096 * pt;
   score = Math.exp(-r) / (1 + Math.exp(-r));
 
-  result.textContent = trimNumber(score, 2);
+  result.textContent = score.toFixed(2);
   result.classList.add(score <= 0.45 ? 'good' : 'bad');
 }
 
@@ -143,8 +157,7 @@ function calculateHERSScore(){
   var result_1 = document.getElementById('result_1');
   var result_3 = document.getElementById('result_3');
   var result_5 = document.getElementById('result_5');
-  result.classList.remove('good');
-  result.classList.remove('bad');
+  result.classList.remove('good', 'bad');
   var score = 0;
   switch (document.score.size.value){
     case 'mid':
@@ -178,6 +191,8 @@ function calculateHERSScore(){
 function calculateHFScore(){
   var result_clichy = document.getElementById('result_clichy');
   var result_kings = document.getElementById('result_kings');
+  result_clichy.classList.remove('good', 'bad');
+  result_kings.classList.remove('good', 'bad');
   var score = document.score;
   var clichy = score.coma.value == 'oui' && ((score.facteur.value < 20 && score.age.value < 30) || (score.facteur.value < 30 && score.age.value >= 30));
 
@@ -243,7 +258,8 @@ function calculateSOFAScore(){
       else score = [3, 78.6];
   }
 
-  result.textContent = 'ACLF ' + score[0] + ' mortalité 28 jours : ' + score[1] + '%';
+  result.textContent = 'ACLF ' + score[0];
+  document.getElementById("result_1").textContent = 100 - score[1].toFixed(0) + '%';
 }
 
 function calculateMayoCBP(){
@@ -266,13 +282,12 @@ function calculateMayoCSP() {
   var atcd = parseInt(document.score.atcd.value);
 
   var score = 0.0295 * age + 0.5373 * Math.log(bili) - 0.8389 * albu + 0.5380 * Math.log(asat) + 1.2426 * atcd;
-  window.alert("Score: " + score);
   getSurvivability(score, [0.963, 0.919, 0.873, 0.833], 1);
 }
 
 function getSurvivability(score, constants, scoreModifier) {
   for(var i = 0; i < constants.length; i++) {
     var cell = document.getElementById("result_" + (i + 1));
-    cell.textContent = trimNumber(Math.pow(constants[i], Math.exp(score-scoreModifier)) * 100, 0) + "%";
+    cell.textContent = (Math.pow(constants[i], Math.exp(score-scoreModifier)).toFixed(0) * 100) + "%";
   }
 }

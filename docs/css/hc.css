@@ -89,6 +89,7 @@ p
 label{
   margin-left: 5px;
   vertical-align: top;
+  margin-top: 2px;
 }
 
 fieldset{
@@ -153,8 +154,8 @@ p > .glyphicon{
 
 .container
 {
-  width:90%;
-  padding-right:0;
+  width:100%;
+  padding-left:5%;
   padding-top:30px;
   opacity: 0;
   transition: opacity .5s;
@@ -835,13 +836,14 @@ form.score input[type=radio], form.score input[type=checkbox]{
   margin: 0 0 0 20px;
   padding   : 0;
   font-size : 1em;
-  opacity   : 0;
+  /*opacity   : 0;*/
+  display: none;
 }
 
 .score input[type=radio]:not(old) + label,
 .score input[type=checkbox]:not(old) + label{
   display      : inline-block;
-  margin-left  : -2em;
+  /*! margin-left  : -2em; */
   line-height  : 1.5em;
 }
 
@@ -860,10 +862,10 @@ form.score input[type=radio] + label > span, form.score input[type=checkbox] + l
 input[type=radio]:checked + label > span > span, input[type=checkbox]:checked + label > span > span{
   display          : block;
   width: 0.7em;
-  height           : 0.65em;
-  margin           : 0.15em;
+  height           : 0.7em;
+  margin           : 0.073em;
   border: 0.0625em solid #2c3e50;
-  border-radius    : 0.125em;
+  border-radius    : 0.15em;
   background: rgb(0, 163, 217);
 }
 

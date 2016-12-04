@@ -245,23 +245,23 @@
     <h1>Score CLIF-SOFA</h1>
     <form name="score" class="score" action="javascript:calculateSOFAScore()">
     <fieldset>
-      <legend for="color">Bilirubine</legend>
+      <legend>Bilirubine</legend>
       <input type="text" name="bilirubin"><label for="bilirubin">&micro;mol/L</label>
     </fieldset>
       <fieldset>
-        <legend for="size">Creatinine</legend>
+        <legend>Creatinine</legend>
         <input type="text" name="creat"><label for="creat">&micro;mol/L</label>
       </fieldset>
       <fieldset>
-        <legend for="opinion">INR</legend>
+        <legend>INR</legend>
         <input type="text" name="inr">
       </fieldset>
       <fieldset>
-        <legend for="opinion">Plaquettes</legend>
+        <legend>Plaquettes</legend>
         <input type="text" name="plaquettes">
       </fieldset>
       <fieldset>
-        <legend for="opinion">Pa02/FiO2</legend>
+        <legend>Pa02/FiO2</legend>
         <input type="text" name="pafi">
       </fieldset>
       <fieldset>
@@ -277,9 +277,12 @@
       </fieldset>
       <input type="submit" value="Calculer">
     </form>
-    <div class="score">
-    Score
-    <div id="result"></div>
+    <div class="score" style="width: 100%;min-height: 2em;padding-top:10px">
+      <p style="font-weight: bold;">Probabilité de survie</p>
+      <table class="table">
+        <tr><th>Score</th><th>28 jours</th></tr>
+        <tr><td id='result'></td><td id='result_1'></tr>
+      </table>
     </div>
 <p class='ref'>D’après Moreau R et al, Clin Gastroenterol Hepatol 2015 ;13:836-41</p>
   </div>
