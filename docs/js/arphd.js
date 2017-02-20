@@ -271,7 +271,7 @@ function calculateMayoCBP(){
 
   var score = 0.039 * age + 0.871 * Math.log(bili) - 2.53 * Math.log(albu) + 2.38 * Math.log(pt) + 0.859 * oedeme;
 
-  getSurvivability(score, [0.97, 0.94, 0.88, 0.83], 5.07);
+  getSurvivability(score, [0.97, 0.94, 0.88, 0.83, 0.77, 0.72, 0.65], 5.07);
 }
 
 function calculateMayoCSP() {

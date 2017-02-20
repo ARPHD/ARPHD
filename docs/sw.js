@@ -11,12 +11,12 @@ var urlsToCache = [
   base + '/css/accordion.css',
   base + '/css/hc.css',
   base + '/css/trombi.css',
+  base + '/css/bootstrap.min.css',
   base + '/images/arrow_down.png',
   base + '/images/arrow_up.png',
   base + '/js/arphd.js',
-  '//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css',
-  'https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js',
-  'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'
+  base + '/js/bootstrap.min.js',
+  'https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'
 ];
 
 self.addEventListener('install', function(event){
@@ -38,6 +38,7 @@ self.addEventListener('fetch', function(event){
     fetch(fetchRequest)
     .then(function(response){
       var responseToCache = response.clone();
+      console.log(responseToCache);
       caches.open(CACHE_NAME)
       .then(function(cache){
         var cacheKey = event.request.clone();

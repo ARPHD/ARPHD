@@ -11,8 +11,10 @@ email: contact[at]aphp.fr
 
 #highlighter: pygments
 #markdown: redcarpet
-redcarpet:
-  extensions: ["tables"]
+#redcarpet:
+#  extensions: ["tables"]
+
+markdown: kramdown
 
 defaults:
   - scope:

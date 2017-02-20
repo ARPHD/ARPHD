@@ -1,0 +1,15 @@
+---
+title: Unité de Transplantation Hépatique - Documents utiles aux transplantés
+permalink: /documents
+---
+<div class="project-container">
+  <h1>Documents utiles aux patients</h1>
+</div>
+<div class="container">
+  {% for doc in site.data.documents %}
+  <a class="docs" href="{{ doc.url }}" target="_blank">
+    <img src="images/pdf-icon.png">
+    <h2>{{ doc.title }}</h2>
+  </a>
+  {% endfor %}
+</div>

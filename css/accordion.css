@@ -105,6 +105,12 @@
 .ac-container input:checked ~ ul.ac-6{
   height: 160px;
 }
+.ac-container input:checked ~ ul.ac-7{
+  height: 190px;
+}
+.ac-container input:checked ~ ul.ac-8{
+  height: 210px;
+}
 .ac-container input:checked ~ ul.ac-9{
   height: 240px;
 }

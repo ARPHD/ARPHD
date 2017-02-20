@@ -4,8 +4,11 @@ layout: default
 <h1 id={{ page.h1 | replace: ' ', '_'}}>{{ page.h1 }}</h1>
 <div>
   <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a href="#preop" aria-controls="preop" role="tab" data-toggle="tab">Pré-opératoire</a></li>
-    <li role="presentation"><a href="#postop" aria-controls="postop" role="tab" data-toggle="tab">Post-opératoire</a></li>
+    <li role="presentation" class="active"><a href="#complications" aria-controls="complications" role="tab" data-toggle="tab">Complications</a></li>
+    <li role="presentation"><a href="#inscription" aria-controls="inscription" role="tab" data-toggle="tab">Inscription à la liste d'attente</a></li>
+    <li role="presentation"><a href="#attente" aria-controls="attente" role="tab" data-toggle="tab">Phase d'attente</a></li>
+    <li role="presentation"><a href="#appel" aria-controls="appel" role="tab" data-toggle="tab">L'appel à la greffe</a></li>
+    <li role="presentation"><a href="#suivi" aria-controls="suivi" role="tab" data-toggle="tab">Le suivi</a></li>
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">
@@ -14,9 +17,15 @@ layout: default
       {% if forloop.first == false %}
         {% case forloop.index %}
           {% when 2 %}
-          <div role="tabpanel" class="tab-pane active" id="preop">{{ page | collapse }}</div>
+          <div role="tabpanel" class="tab-pane active" id="complications">{{ page | collapse }}</div>
           {% when 3 %}
-          <div role="tabpanel" class="tab-pane" id="postop">{{ page | collapse }}</div>
+          <div role="tabpanel" class="tab-pane" id="inscription">{{ page | collapse }}</div>
+          {% when 4 %}
+          <div role="tabpanel" class="tab-pane" id="attente">{{ page | collapse }}</div>
+          {% when 5 %}
+          <div role="tabpanel" class="tab-pane" id="appel">{{ page | collapse }}</div>
+          {% when 6 %}
+          <div role="tabpanel" class="tab-pane" id="suivi">{{ page | collapse }}</div>
         {% endcase %}
       {% endif %}
     {% endfor %}

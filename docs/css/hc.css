@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+}
+
 @keyframes unfold{
   from{
     max-height: 0;
@@ -66,6 +71,13 @@ h3 {
   color: #666;
 }
 
+/* H4 in FAQ */
+.panel-body h4 {
+  text-decoration: underline;
+  color: black;
+  font-size: 16px;
+}
+
 .sidebar-brand h2, .sidebar-brand h3{
   text-decoration: none;
 }
@@ -112,7 +124,7 @@ input[type="radio"]{
   margin: 5px;
 }
 
-li{
+ul > li{
   list-style: circle;
 }
 
@@ -161,10 +173,24 @@ p > .glyphicon{
   transition: opacity .5s;
 }
 
-.container a
+.docs
 {
-  /*border-bottom:1px #8a8a8a dotted;*/
-  text-decoration:none
+  width: 31%;
+  display: block;
+  border: 1px solid;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  float: left;
+  margin: 5px;
+  padding: 0 10px;
+}
+
+.docs h2 {
+  font-size: 15px;
+  color: black;
+  text-decoration: none;
+  line-height: 1.2em;
+  height: 4.5em;
 }
 
 #wrapper
