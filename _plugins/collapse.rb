@@ -1,17 +1,18 @@
 module Jekyll
   module Collapse
-    def collapse(input)
+    def collapse(input, index=1)
       questions = input.split("<h3")
       # Remove first, it's a residue of h1
       questions.shift();
       output = '<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">'
       id = 1
       for q in questions
+        suffix = index.to_s + '_' + id.to_s;
         if q != ""
           output += '<div class="panel panel-default">
-          <div class="panel-heading" role="tab" id="question_' + id.to_s + '">
+          <div class="panel-heading" role="tab" id="question_' + suffix + '">
           <h4 class="panel-title">
-          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse_' + id.to_s + '" aria-expanded="false" aria-controls="collapse_' + id.to_s + '">'
+          <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse_' + suffix + '" aria-expanded="false" aria-controls="collapse_' + suffix + '">'
 
           tokens = q.split(">")
           j = 0
@@ -23,7 +24,7 @@ module Jekyll
           end
 
           output += '</a></h4></div>
-          <div id="collapse_' + id.to_s + '" class="panel-collapse collapse" role="tabpanel" aria-labelledby="question_' + id.to_s + '">
+          <div id="collapse_' + suffix + '" class="panel-collapse collapse" role="tabpanel" aria-labelledby="question_' + suffix + '">
           <div class="panel-body">'
 
           answer = q.split("<p>")

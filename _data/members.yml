@@ -10,7 +10,7 @@
 
     - name: Nadia Chabou
       bio: Secrétaire de coordination au CHU Henri Mondor de Créteil
-      photo: profile-placeholder.png
+      photo: nadia-chabou.jpg
 
     - name: Norbert Ngongang
       bio: Technicien ABM et Database Manager au CHU Henri Mondor de Créteil
@@ -56,7 +56,7 @@
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
-    - name: Pr. Philippe Compagnon 
+    - name: Pr. Philippe Compagnon
       bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
       photo: profile-placeholder.png
 
@@ -101,5 +101,13 @@
       photo: florence-dupont.jpg
 
     - name: Nathalie Goncalves
-      bio: diététicienne
+      bio: Diététicienne
       photo: nathalie-goncalves.jpg
+
+    - name: Laeticia Canonne
+      bio: Diététicienne
+      photo: laetitia-canonne.jpg
+
+    - name: Priscille Blaudin
+      bio: Psychologue
+      photo: priscille-blaudin.jpg

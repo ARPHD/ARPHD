@@ -32,14 +32,17 @@
     - title: Nutrition et greffe
       href: /nutrition.html
 
+    - title: Prise en charge médicale
+      href: /prise-en-charge-medicale.html
+
     - title: Prise en charge sociale
       href: /prise-en-charge.html
 
     - title: Questions fréquentes
       href: /faq.html
 
-    - title: Livret thérapeutique
-      href: /livret.pdf
+    #- title: Livret thérapeutique
+    #  href: /livret.pdf
 
     - title: Documents utiles
       href: /documents.html
@@ -66,8 +69,11 @@
   #  - title: Données sur la greffe
   #    href: /transplant_data.html
 
-    - title: Actualité des congrès
-      href: /events.html
+  #  - title: Actualité des congrès
+  #    href: /events.html
+
+    - title: Conférences
+      href: /conferences.html
 
   #  - title: Sociétés savantes
   #    href: /learned_society.html

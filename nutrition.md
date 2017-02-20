@@ -30,15 +30,15 @@ Le moment de passer à table peut vite devenir un cauchemar ! Le bénéfice de 
 Pour vous aider, je vous propose des idées de menus [Tableau 1] à consulter immédiatement avant de la lire la suite,  qui vont vous aider à garder le plaisir de manger tout en respectant les contraintes diététiques médicales.
 Il est possible que certaines personnes soient découragées si elles ne savent ou ne peuvent pas faire la cuisine ou les courses. Dans ce cas, il peut être utile d’avoir recours à la diététicienne pour adapter des repas et établir une liste de courses en fonction des moyens.
 
-### L’alimentation peu salée pour les patients avec œdèmes ou ascite.
+### L’alimentation peu salée pour les problèmes d'œdèmes ou ascite.
 La consommation moyenne de sel en France est proche des 10 à 11 grammes par jour. La prescription médicale pour laquelle on constate un bénéfice sur la réduction de l'ascite est de 3grammes de sel par jour.
 En France, nous avons une tradition  alimentaire d'aliments salés : le pain, le fromage, la charcuterie, les conserves, les plats préparés du commerce....
 
 > Il va donc falloir  apprendre à choisir les aliments pauvres en sel et opter pour une cuisine maison ! [Tableau 2]
 
-L’idéal est par exemple de préparer du potage maison, d’acheter ou fabriquer du pain sans sel, d’utiliser des herbes aromatiques et des épices, de l'huile d'olive, de remplacer la moutarde, les bouillons cubes... Penser à .manger plus souvent des légumes, des fruits, des féculents, des légumineuses, de l'ail, de l'oignon, du poisson, des laitages....
+L’idéal est par exemple de préparer du potage maison, d’acheter ou fabriquer du pain sans sel, d’utiliser des herbes aromatiques et des épices, de l'huile d'olive, de remplacer la moutarde/les bouillons cubes par des produits sans sel équivalents... Penser à manger plus souvent des légumes, des fruits, des féculents, des légumineuses, de l'ail, de l'oignon, du poisson, des laitages....
 
-La cuisine sans sel, oui  mais en prenant la route des épices ! [Tableau 3]
+La cuisine sans sel, oui mais sans goût, non !!Utilisez des épices ! [Tableau 3]
 
 ### Le problème du sucre et du diabète
 Si vous avez déjà rencontré un diététicien dans votre existence, vous savez que le sucre doit être limité en cas de diabète **mais** qu'il faut conserver  la moitié de son alimentation en sucre lents (féculent, légumes secs, fruits, pain). Les fruits sont indispensables, 2 à 3 par jour [Tableau 4].
@@ -46,7 +46,7 @@ Si vous avez déjà rencontré un diététicien dans votre existence, vous savez
 ### L’assistance nutritionnelle : quand est-elle nécessaire ?
 Lorsque l'alimentation seule ne suffit plus à apporter l’énergie, les vitamines et les minéraux indispensables, c'est à dire lorsque les apports nutritionnels ne couvrent pas 60 % des besoins, le risque de dénutrition doit être identifié. Il est alors recommandé  une assistance nutritionnelle. [Tableau 5 et 6]
 
-La première étape consiste à donner des conseils diététiques individualisés d'enrichissement alimentaires et selon les capacités à prescrire des compléments nutritionnels oraux (CNO). Il existe  une très large gamme de présentation et de goûts (jus de fruits, boisson lactée, crèmes, potage, gâteau....) pour majorer les apports nutritionnelles.
+La première étape consiste à donner des conseils diététiques individualisés d'enrichissement alimentairs et selon les besoins, à prescrire des compléments nutritionnels oraux (CNO). Il existe  une très large gamme de présentation et de goûts (jus de fruits, boisson lactée, crèmes, potage, gâteau....) pour majorer les apports nutritionnels.
 
 ![Complements](images/supplements.jpg)
 

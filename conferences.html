@@ -1,0 +1,15 @@
+---
+title: Unité de Transplantation Hépatique - Conférences
+permalink: /conferences
+---
+<div class="project-container">
+  <h1>Conférences</h1>
+</div>
+<div class="container">
+  {% for doc in site.data.conferences %}
+  <a class="docs" href="{{ doc.url }}" target="_blank">
+    <img src="images/pdf-icon.png">
+    <h2>{{ doc.title }}</h2>
+  </a>
+  {% endfor %}
+</div>

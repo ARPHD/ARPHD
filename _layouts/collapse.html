@@ -17,15 +17,15 @@ layout: default
       {% if forloop.first == false %}
         {% case forloop.index %}
           {% when 2 %}
-          <div role="tabpanel" class="tab-pane active" id="complications">{{ page | collapse }}</div>
+          <div role="tabpanel" class="tab-pane active" id="complications">{{ page | collapse:forloop.index }}</div>
           {% when 3 %}
-          <div role="tabpanel" class="tab-pane" id="inscription">{{ page | collapse }}</div>
+          <div role="tabpanel" class="tab-pane" id="inscription">{{ page | collapse:forloop.index }}</div>
           {% when 4 %}
-          <div role="tabpanel" class="tab-pane" id="attente">{{ page | collapse }}</div>
+          <div role="tabpanel" class="tab-pane" id="attente">{{ page | collapse:forloop.index }}</div>
           {% when 5 %}
-          <div role="tabpanel" class="tab-pane" id="appel">{{ page | collapse }}</div>
+          <div role="tabpanel" class="tab-pane" id="appel">{{ page | collapse:forloop.index }}</div>
           {% when 6 %}
-          <div role="tabpanel" class="tab-pane" id="suivi">{{ page | collapse }}</div>
+          <div role="tabpanel" class="tab-pane" id="suivi">{{ page | collapse:forloop.index }}</div>
         {% endcase %}
       {% endif %}
     {% endfor %}

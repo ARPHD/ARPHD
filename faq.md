@@ -10,9 +10,9 @@ h1: Questions fréquentes
 
 Le foie est un organe associé au tube digestif. Il joue le rôle d’une vaste usine chimique, synthétisant et sécrétant la bile, utile à la digestion. Il intervient dans la fabrication des protides (ex : l’albumine), des glucides (ex : le glucose) et des lipides (ex : le cholestérol).
 
-Ces fonctions sont assurées par des cellules appelées hépatocytes. 
+Ces fonctions sont assurées par des cellules appelées hépatocytes.
 
-La cirrhose est un ensemble de lésions diffuses et irréversibles du foie. Les tissus hépatiques sont envahis de fibrose, qui détruit la structure du foie et crée des nodules anormaux. La cirrhose peut être stable, ou bien évoluer. Mais elle ne peut pas régresser : une fois installée, elle est toujours définitive. 
+La cirrhose est un ensemble de lésions diffuses et irréversibles du foie. Les tissus hépatiques sont envahis de fibrose, qui détruit la structure du foie et crée des nodules anormaux. La cirrhose peut être stable, ou bien évoluer. Mais elle ne peut pas régresser : une fois installée, elle est toujours définitive.
 
 Le foie ne remplit plus ses fonctions normales : il ne peut plus filtrer les substances contenues dans le sang ou secréter la bile.
 
@@ -21,13 +21,13 @@ Le foie ne remplit plus ses fonctions normales : il ne peut plus filtrer les sub
     Une des fonctions de production des hépatocytes est celle de la formation de facteurs de coagulation et de plaquettes sanguines. Ces éléments (plaquettes sanguines d'abord et facteurs de coagulation ensuite) interviennent pour stopper le saignement dès qu'un organe de votre corps (que ce soient des organes internes ou la peau et les muqueuses)est lésé par une brèche ou une blessure.
 
     Le déficit de ces facteurs de coagulation est une conséquence de l'insuffisance hépatocellulaire dans la cirrhose du foie quelle qu'en soit sa cause.
-    
+
     C'est pourquoi, vous avez plus de risques de saigner (saignements de nez, saignements des gencives, formation d'hématomes en cas de chocs ou suite à des prises de sang, et saignements si vous souffrez d'un ulcère de l'estomac)
 
 * Les complications de l'hypertension portale:
     Une augmentation de la pression à l’intérieur du système veineux portal (qui conduit le sang en provenance de l’appareil digestif jusqu’au foie) se développe : c’est l’hypertension portale. Elle est à l'origine de deux complications:
 
-    1. L'hémorragie digestive: 
+    1. L'hémorragie digestive:
 
         L'augmentation de la pression sanguine dans la veine porte peut provoquer des saignements à différents niveaux du tube digestif:
           * dans l'œsophage et l'estomac par la rupture de varices ou par la présence de zones  ulcérées.
@@ -49,7 +49,7 @@ Le foie ne remplit plus ses fonctions normales : il ne peut plus filtrer les sub
 
 * Le cancer du foie :
 
-  Un cancer du foie peut survenir dans les 15 à 20 ans qui suivent la formation de la cirrhose. 
+  Un cancer du foie peut survenir dans les 15 à 20 ans qui suivent la formation de la cirrhose.
 
   Il est appelé carcinome hépatocellulaire. La surveillance de son apparition est assurée par des échographies du foie voire des scanners abdominaux réguliers (au minimum une fois par an).
 
@@ -105,7 +105,7 @@ Ces varices peuvent se rompre et saigner, c’est ce qu’on appelle « la rupt
 #### Comment surveiller la survenue d’un saignement digestif :
 
 * Inspectez systématiquement la couleur de vos selles lorsque vous allez aux toilettes. Si vos selles sont toutes molles et noires, cela veut dire que vous saignez « activement ».Le mélaena est du sang digéré issu du tube digestif notamment du bas œsophage et de l’estomac
-* L’apparition de nausées et surtout d’un vomissement de sang rouge ou noirâtre, même isolé, constitue une urgence vitale. Vous devez immédiatement vous faire transporter aux urgences de l’hôpital 
+* L’apparition de nausées et surtout d’un vomissement de sang rouge ou noirâtre, même isolé, constitue une urgence vitale. Vous devez immédiatement vous faire transporter aux urgences de l’hôpital
 * Il peut parfois arriver qu’un saignement digestif continu ne soit pas décelable d’emblée (car non extériorisé par la voie des selles), c’est pourquoi il est primordial de faire les prises de sang régulières qui vous sont prescrites par votre hépatologue ou votre médecin traitant, car seule la surveillance de la Numération Formule Sanguine (NFS) pourra nous faire suspecter un saignement digestif continu.
 
 ### La fièvre
@@ -139,13 +139,13 @@ Elle est alors libérée lentement de la vésicule biliaire vers l'intestin, où
 
 La bilirubine remonte alors vers le foie et passe dans la circulation sanguine.
 
-#### Des symptômes peuvent être associés à la jaunisse et dépendent de sa cause : 
+#### Des symptômes peuvent être associés à la jaunisse et dépendent de sa cause :
 
-Si une fièvre ou une affection rappelant la grippe se manifeste avec la jaunisse, c'est habituellement un signe d'une hépatite infectieuse virale. 
+Si une fièvre ou une affection rappelant la grippe se manifeste avec la jaunisse, c'est habituellement un signe d'une hépatite infectieuse virale.
 
 L'apparition d'une *urine brune*, courante en cas d'hépatite, est généralement un signe de mauvais fonctionnement du foie ou d'une augmentation de la destruction de globules rouges. Le corps essaye de se débarrasser de l'excès de bilirubine dans l'urine.
 
-L'apparition de *selles pâles, blanches ou de couleur argile*, en revanche, est indicatrice d'une obstruction de la vésicule biliaire ou des voies biliaires. 
+L'apparition de *selles pâles, blanches ou de couleur argile*, en revanche, est indicatrice d'une obstruction de la vésicule biliaire ou des voies biliaires.
 
 *Les douleurs abdominales* sont fréquentes chez les personnes atteintes d'une obstruction causée par des calculs biliaires tandis que celles dont l'obstruction est due à une tumeur souffrent habituellement d'une jaunisse non accompagnée de douleur.
 
@@ -170,9 +170,9 @@ De manière générale, si vous vivez seul, *faites en sorte de parler de ce ris
 
 Les traitements dits locaux tels que :
 
-* La chimioembolisation 
-* La radiofréquence 
-* La radioembolisation  permettent un contrôle provisoire de la tumeur mais ne traitent pas votre cirrhose qui est une maladie pré cancéreuse. Celle-ci vous expose donc à un risque de récidive du cancer du foie auquel la greffe peut vous soustraire. 
+* La chimioembolisation
+* La radiofréquence
+* La radioembolisation  permettent un contrôle provisoire de la tumeur mais ne traitent pas votre cirrhose qui est une maladie pré cancéreuse. Celle-ci vous expose donc à un risque de récidive du cancer du foie auquel la greffe peut vous soustraire.
 * Dans cette situation, il est prudent d'effectuer un bilan pré greffe simultanément au traitement loco régional des nodules du foie afin de ne pas perdre du temps et pouvoir effectuer la transplantation à temps en cas de récidive.
 
 # Les modalités d’inscription sur liste d’attente de transplantation hépatique
@@ -185,7 +185,7 @@ Vous pouvez consulter le site de l’Agence de la biomédecine pour de plus ampl
 
 ### Comment puis- je savoir que je suis inscrit sur la liste nationale d’attente ?
 
-Au terme de la procédure d’évaluation, médicale et administrative, une demande d’inscription sur liste nationale d’attente est adressée par l’équipe à l’Agence de la Biomédecine. 
+Au terme de la procédure d’évaluation, médicale et administrative, une demande d’inscription sur liste nationale d’attente est adressée par l’équipe à l’Agence de la Biomédecine.
 
 Celle-ci en retour procède à l’inscription sur la liste nationale d’attente des candidats à la greffe hépatique. L’Agence vous adresse alors un document type vous indiquant que votre inscription est effective à partir de la date indiquée sur le document dans un délai d’environ 15 jours.
 
@@ -204,7 +204,7 @@ Le score MELD est un score calculé à  partir de 3 de vos données biologiques�
 
 Le score MELD  va de 6  à 40 est reflète la sévérité de votre maladie hépatique ainsi que la probabilité de développer une complication fatale dans les 3 à 6 mois suivant son calcul.
 
-Plus le score est élevé plus la maladie hépatique est grave et expose à un risque de décès. 
+Plus le score est élevé plus la maladie hépatique est grave et expose à un risque de décès.
 
 Dans tous les programmes de transplantation hépatique nationaux et internationaux, le score MELD est donc utilisé pour définir les priorités sur la liste d’attente : les greffons sont prioritairement attribués  aux patients qui ont le score MELD le plus élevé pour éviter que ces patients ne décèdent en attendant la greffe.
 
@@ -221,7 +221,7 @@ Le score AFP est calculé à partir de 3 variables : la taille du plus gros nod
 
 ### Comment puis-je connaitre ma position sur la liste d’attente ?
 
-Le score national foie de chaque patient inscrit par l’équipe de transplantation hépatique de l’hôpital Henri Mondor est analysé et actualisé chaque semaine au cours d’une réunion multi-disciplinaire. 
+Le score national foie de chaque patient inscrit par l’équipe de transplantation hépatique de l’hôpital Henri Mondor est analysé et actualisé chaque semaine au cours d’une réunion multi-disciplinaire.
 
 Vous pouvez donc connaître votre position sur la liste d’attente en le demandant à votre hépatologue référent ou votre infirmière de coordination lors d’un rendez-vous programmé.
 
@@ -242,13 +242,13 @@ Ces signes sont dits « cliniques » et sont décelables par vous-même ou vot
 
 ### Comment ma situation de santé va-t-elle être prise en charge pendant la phase d’attente ?
 
-La surveillance de l’évolution de votre maladie de foie (prises de sang, examens d’imagerie et consultations en hépatologie) ne change pas pendant toute la période d’attente de la greffe. 
+La surveillance de l’évolution de votre maladie de foie (prises de sang, examens d’imagerie et consultations en hépatologie) ne change pas pendant toute la période d’attente de la greffe.
 
 Il vous sera demandé d’être rigoureux dans le suivi.
 
  Si vous nous avez été adressé par un hépatologue d’un autre hôpital, pour des raisons pratiques, le suivi de votre état de santé sera réalisé par l’hépatologue qui vous suivait déjà avant le projet de greffe hépatique.
 
-Toutefois, un suivi trimestriel avec une prise de sang, des examens d’imagerie abdominale (échographie abdominale au minimum et IRM hépatique en cas de cancer du foie)  et une consultation avec un hépatologue spécialisé en greffe hépatique à l’hôpital H.MONDOR vous sera demandé. 
+Toutefois, un suivi trimestriel avec une prise de sang, des examens d’imagerie abdominale (échographie abdominale au minimum et IRM hépatique en cas de cancer du foie)  et une consultation avec un hépatologue spécialisé en greffe hépatique à l’hôpital H.MONDOR vous sera demandé.
 
 Une surveillance plus fréquente de la fonction hépatique peut être nécessaire en cas de dégradation de votre état général.
 
@@ -256,11 +256,11 @@ Une surveillance plus fréquente de la fonction hépatique peut être nécessair
 
 ### Y-a-t- il un risque, une fois l’inscription réalisée, que la greffe ne soit pas faite ?
 
-Dans certains cas, rares, la maladie hépatique peut s’aggraver ou des complications peuvent survenir pendant la phase d’attente  et contre-indiquer la réalisation de la transplantation. C’est le cas par exemple d’une infection qui nécessite d’être traitée avant de procéder à la transplantation. 
+Dans certains cas, rares, la maladie hépatique peut s’aggraver ou des complications peuvent survenir pendant la phase d’attente  et contre-indiquer la réalisation de la transplantation. C’est le cas par exemple d’une infection qui nécessite d’être traitée avant de procéder à la transplantation.
 
 Si la complication est temporaire, vous serez placé en statut de contre-indication temporaire (CIT) sur la liste jusqu’à guérison de la complication, puis replacé en position active sur liste lors que votre état de santé sera jugé compatible par l’équipe.
 
-Si la complication est très grave, elle peut conduire à une mise en contre-indication définitive pour aggravation voire malheureusement au décès sur liste pendant la phase d’attente. 
+Si la complication est très grave, elle peut conduire à une mise en contre-indication définitive pour aggravation voire malheureusement au décès sur liste pendant la phase d’attente.
 
 Cette situation survient dans 15% des cas. Tout le travail de l’équipe de transplantation pendant la phase d’attente est donc concentré sur la prévention de ces complications graves et il est donc essentiel pour cela d’observer scrupuleusement les consignes qui vous sont indiquées par vos infirmières de coordination et votre médecin hépatologue.
 
@@ -308,28 +308,28 @@ Appeler le SAMU (le ### qui se chargera de vous faire parvenir une ambulance à 
 
 ### En combien de temps dois- je venir à l’hôpital ?
 
-Vous devez vous rendre au service des admissions de l’hôpital H.MONDOR **dans les 3 heures** suivant l’appel à la greffe. Le temps de conservation du greffon après l’explantation du donneur est limité à quelques heures.  Une attente trop longue peut endommager les cellules du greffon et l’organe peu perdre de sa qualité. 
+Vous devez vous rendre au service des admissions de l’hôpital H.MONDOR **dans les 3 heures** suivant l’appel à la greffe. Le temps de conservation du greffon après l’explantation du donneur est limité à quelques heures.  Une attente trop longue peut endommager les cellules du greffon et l’organe peu perdre de sa qualité.
 
 # Le suivi
 
 ### Combien de temps puis je vivre avec mon nouveau foie ?
 
-L’espérance de vie moyenne après la greffe hépatique est très importante. 
+L’espérance de vie moyenne après la greffe hépatique est très importante.
 
 On considère actuellement que 7 greffés hépatiques sur 10 sont vivants et en bonne santé 10 ans après la greffe. De nombreux greffés hépatiques ont dorénavant dépassé les 20 ans de greffe et les 80 ans !
 
 L’espérance de vie après la greffe dépend de plusieurs facteurs :
 * Avant la transplantation: de l’âge au moment de la transplantation et de  la fragilité du patient candidat à la greffe.
 * Après la transplantation : des évènements indésirables sérieux pouvant survenir tels que des complications-post opératoires immédiates et ultérieurement récidive de la maladie pour laquelle la transplantation a été réalisée sur le nouveau foie.  
-Le risque essentiel se situe durant le 1er mois post opératoire pendant lequel peuvent survenir des complications, notamment des infections sévères ou des défaillances de certains organes (cœur, poumons, reins) qui mettent en jeu le pronostic vital. 
+Le risque essentiel se situe durant le 1er mois post opératoire pendant lequel peuvent survenir des complications, notamment des infections sévères ou des défaillances de certains organes (cœur, poumons, reins) qui mettent en jeu le pronostic vital.
 
-Ces complications concernent 7 à 10 transplantés sur 100. Ce qui veut dire que plus de 90% des transplantés passent ce cap. L’objet du bilan pré greffe est notamment de chercher à évaluer ce risque et de le réduire au minimum. 
+Ces complications concernent 7 à 10 transplantés sur 100. Ce qui veut dire que plus de 90% des transplantés passent ce cap. L’objet du bilan pré greffe est notamment de chercher à évaluer ce risque et de le réduire au minimum.
 
 Le rejet met exceptionnellement en jeu le pronostic vital mais peut conduire à la destruction du greffon. Lorsque la perte du greffon n’est pas liée à un problème d’observance au traitement anti rejet, une 2nde transplantation peut être envisagée pour résoudre le problème.
 
 D’autres situations en rapport avec des problèmes techniques chirurgicaux peuvent conduire à envisager une re-transplantation. Ces situations concernent en moyenne 10% des patients ayant reçu une 1re greffe.
 
-Ultérieurement, votre suivi médical s’attachera à prévenir la récidive de la maladie initiale et les effets secondaires des immunosuppresseurs qui sont 2 facteurs pouvant avoir un impact sur l’espérance de vie du greffon et du patient transplanté. 
+Ultérieurement, votre suivi médical s’attachera à prévenir la récidive de la maladie initiale et les effets secondaires des immunosuppresseurs qui sont 2 facteurs pouvant avoir un impact sur l’espérance de vie du greffon et du patient transplanté.
 
 Cependant, passée la phase post opératoire initiale, le greffon hépatique fonctionne généralement parfaitement et sa durée de vie est extrêmement prolongée. De nombreux greffés hépatiques ont dorénavant dépassé les 20 ans de greffe et les 80 ans !
 
@@ -338,4 +338,5 @@ La durée de vie du greffon et votre espérance de vie seront essentiellement vo
 ### Pourquoi est il impératif de respecter le suivi médical régulier qui vous est demandé par votre hepatologue ?
 
 Il est très important de vous rendre aux rendez-vous de prises de sang et consultations, d'examens complémentaires tels que les échographies hépatiques, les scanners abdominaux qui vous sont prescrits car seul un suivi hépatologique régulier permettra  de prévenir ou de déceler une complication de votre cirrhose.
- La cirrhose du foie évolue et seul votre hépatologue connait bien votre histoire et vos antécédents. Le manquement à une bonne observance du suivi médical et à la bonne prise des traitements figurant sur votre ordonnance vous expose davantage aux complications citées plus hauts. Ces complications peuvent etre graves et mettre en jeu votre pronostic vital si elles ne sont pas décelées ou traitées à temps, et entraineront de facto des hospitalisations répétées. 
+
+La cirrhose du foie évolue et seul votre hépatologue connait bien votre histoire et vos antécédents. Le manquement à une bonne observance du suivi médical et à la bonne prise des traitements figurant sur votre ordonnance vous expose davantage aux complications citées plus hauts. Ces complications peuvent etre graves et mettre en jeu votre pronostic vital si elles ne sont pas décelées ou traitées à temps, et entraineront de facto des hospitalisations répétées. 
