@@ -53,12 +53,22 @@ Si nécessaire, un arret de toute substance toxique tels que l'alcool et le taba
 Pour vous aider dans cette démarche de sevrage, un suivi addictologique vous sera proposé.
 
 ## Dépistage de contre indications formelles a la greffe
-  Certaines pathologies graves tels que les cancers peuvent constituer une contre-indication (temporaire ou définitive) à la greffe.
 
+Lors du bilan pré greffe, des contre-indications définitives ou temporaires peuvent intervenir dans les cas suivants :
+* contre-indication carcinologique (cancer en évolution).
+* contre-indication cardio-vasculaires (maladie du cœur ou des poumons)
+* contre-indication addictologique (reprise de la consommation d’alcool et/ou de drogue).
+* contre-indication liée à votre adhésion au projet de transplantation ( non venue aux examens médicaux, absence de régularité dans le suivi thérapeutique).
+
+Pour ces raisons, certains examens complémentaires peuvent vous être demandés tels que :
 * PET SCAN (scanner du corps entier)
 * mammographie/examens gynecologiques
 * dosage sanguin de marqueurs tumoraux
 pourront ètre prescrits en complément.
+
+Ce bilan se termine par une consultation avec un chirurgien viscéral, un anesthésiste et l'hépatologue référent.
+
+**L'inscription sur liste d'attente de greffe hépatique auprès de l'Agence de Biomédecine est effectuée par l'infirmière coordinatrice lorsque toutes les contre-indications à la greffe ont été éliminées. Elle signe la fin de votre bilan pré greffe**.
 
 ## Consultation de fin de bilan pré greffe
 Ce bilan se termine par une consultation avec un chirurgien hépatique, un anesthésiste et l'hépatologue référent.
@@ -107,7 +117,7 @@ Certains signes de dégradation physique sont visibles par vous ou votre entoura
 * Tout saignement doit ètre signalé car il témoigne à lui seul d’une baisse de la coagulation, donc d’une altération de la fonction hépatique :
 saignements de nez, saignements des gencives, saignements dans les selles (sang rouge ou noiratre), vomissement de sang rouge ou noiratre, hématomes spontanés sur le bras etc..
 * Apparition ou aggravation de troubles de la conscience à type de somnolence, de confusion, d’agitation, de comportement inhabituel, d’agressivité (ces signes sont généralement constatés par votre entourage).
-* Prise de poids, apparition d’oedemes dans les jambes, essoufflement, douleurs abdominales 
+* Prise de poids, apparition d’oedemes dans les jambes, essoufflement, douleurs abdominales
 * Fièvre, frissons, toux, douleurs
 * Etat de fatigue inexpliqué
 * Apparition ou aggravation d’une jaunisse, des urines fonçées, des selles décolorées
@@ -145,4 +155,3 @@ Informez la personne qui vous accompagne qu’il n’est pas nécessaire qu’el
 # L'intervention
 
 # Le suivi à long terme
-
