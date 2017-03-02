@@ -4,8 +4,16 @@ layout: default
 ---
 
 # Prise en charge de la maladie initiale pendant la phase d’attente
+Dans l’attente de la transplantation, la prise en charge de votre maladie hépatique doit être poursuivie.  
+Dans certaines situations détaillées ci-dessous ([carcinome hépato-cellulaire](#le-carcinome-hépato-cellulaire), [cirrhose virale](#cirrhoses-virales-et-traitement-antiviraux)) des modalités particulières de traitement et/ou de surveillance doivent être appliquées.
 
-## Le carcinome hépato-cellulaire :
+Dans les autres cas, la prise en charge de la maladie n’est pas spécifique de la période pré-opératoire mais la surveillance et le respect des traitements doivent cependant être particulièrement rigoureux pour plusieurs raisons :
+
+*	nécessité de dépister et traiter précocement les complications de la cirrhose (infection, hémorragie, encéphalopathie), en étant vigilant sur les signes d’alerte ; la survenue de telle complication peut empêcher l’intervention, au  moins temporairement, vous plaçant en situation de contre-indication temporaire (CIT) ; dans ce cas, vous ne pouvez être appelé pour l’intervention, mais gardez votre place sur la liste. La prise en charge retardée de ces complications peut conduire à une dégradation telle de votre santé que la greffe ne puisse plus être réalisée
+*	nécessité d’examens biologiques au minimum trimestriels, réclamés par l’Agence de Biomédecine pour actualiser votre score MELD et votre positionnement sur la liste d’attente nationale
+*	en cas de cirrhose liée à l’alcool, arrêt complet et définitif de a consommation de toute boisson alcoolisée pour éviter l’aggravation de l’insuffisance hépatique ; avec le sevrage complet, une amélioration partielle de celle-ci peut s’observer, pouvant même parfois atteindre un seuil permettant d’éviter la transplantation. Le respect du régime sans alcool est également nécessaire pour bénéficier de la greffe pour d’évidentes raisons alcoologiques, la reprise ou la poursuite de la consommation contre-indiquant l’intervention quel que soit la sévérité de la défaillance hépatique ou les complications observées.  Un suivi addictologique est systématique et indispensable dans la période d’attente pour aider au maintien du sevrage ; la recherche d’alcool dans le sang ou les urines lors des bilans pré-opératoires est également régulièrement pratiquée.
+
+## Le carcinome hépato-cellulaire 
 Une fois inscrit sur liste, le temps d’attente en vue de la greffe pour carcinome hépato-cellulaire est en général de 12 à 15 mois. Il est donc essentiel pendant cette période de pouvoir commencer à traiter votre tumeur pour l’empêcher de progresser au-delà d’un stade pour lequel la greffe deviendrait contre indiquée.
 
 ## Le choix du traitement d’attente
