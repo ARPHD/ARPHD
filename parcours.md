@@ -24,7 +24,7 @@ Les différentes étapes du bilan pré greffe:
 ## Le bilan morphologique
 Une échographie doppler hépatique et un scanner abdomino-pelvien visent à renseigner le chirurgien sur l'anatomie des vaisseaux et des voies biliaires du foie en prévision de l'intervention.
 
-## Le bilan d'operabilite
+## Le bilan d'opérabilite
 Il permet de faire un bilan exhaustif de votre état général par une évaluation de vos fonctions cardiaque, pulmonaire et rénale. Ces examens détermineront les risques potentiels que vous encourez selon vos antécédants ( hypertension artérielle, diabète, tabac, alcool, obésité, cancer).
 Les examens :
 
@@ -52,15 +52,17 @@ Notez que la présence d'une personne dite  "référente" de votre choix (qui pe
 Si nécessaire, un arret de toute substance toxique tels que l'alcool et le tabac pouvant contre indiquer la greffe sera demandé.
 Pour vous aider dans cette démarche de sevrage, un suivi addictologique vous sera proposé.
 
-## Dépistage de contre indications formelles a la greffe
+## Dépistage de contre indications formelles à la greffe
 
 Lors du bilan pré greffe, des contre-indications définitives ou temporaires peuvent intervenir dans les cas suivants :
+
 * contre-indication carcinologique (cancer en évolution).
 * contre-indication cardio-vasculaires (maladie du cœur ou des poumons)
 * contre-indication addictologique (reprise de la consommation d’alcool et/ou de drogue).
 * contre-indication liée à votre adhésion au projet de transplantation ( non venue aux examens médicaux, absence de régularité dans le suivi thérapeutique).
 
 Pour ces raisons, certains examens complémentaires peuvent vous être demandés tels que :
+
 * PET SCAN (scanner du corps entier)
 * mammographie/examens gynecologiques
 * dosage sanguin de marqueurs tumoraux

@@ -263,20 +263,20 @@ function calculateSOFAScore(){
 }
 
 function calculateMayoCBP(){
-  var albu = document.score.albumine.value.replace(',', '.');
-  var bili = document.score.bilirubin.value.replace(',', '.') / 17.1;
+  var albu = document.score.albumine.value.replace(',', '.') / 10;
+  var bili = (document.score.bilirubin.value.replace(',', '.') / 17.1).toFixed(1);
   var pt = document.score.pt.value.replace(',', '.');
   var age = document.score.age.value;
   var oedeme = parseFloat(document.score.oedeme.value);
 
   var score = 0.039 * age + 0.871 * Math.log(bili) - 2.53 * Math.log(albu) + 2.38 * Math.log(pt) + 0.859 * oedeme;
 
-  getSurvivability(score, [0.97, 0.94, 0.88, 0.83, 0.77, 0.72, 0.65], 5.07);
+  getSurvivability(score, [0.97, 0.941, 0.883, 0.833, 0.774, 0.721, 0.651], 5.07);
 }
 
 function calculateMayoCSP() {
   var albu = document.score.albumine.value.replace(',', '.') / 10;
-  var bili = document.score.bilirubin.value.replace(',', '.') / 17.1;
+  var bili = (document.score.bilirubin.value.replace(',', '.') / 17.1).toFixed(1);
   var asat = document.score.asat.value;
   var age = document.score.age.value;
   var atcd = parseInt(document.score.atcd.value);
@@ -288,6 +288,6 @@ function calculateMayoCSP() {
 function getSurvivability(score, constants, scoreModifier) {
   for(var i = 0; i < constants.length; i++) {
     var cell = document.getElementById("result_" + (i + 1));
-    cell.textContent = (Math.pow(constants[i], Math.exp(score-scoreModifier)).toFixed(0) * 100) + "%";
+    cell.textContent = (Math.pow(constants[i], Math.exp(score-scoreModifier)) * 100).toFixed(0) + "%";
   }
 }

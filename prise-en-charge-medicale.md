@@ -70,7 +70,7 @@ L’intérêt est double :
 
 On considère actuellement que la balance entre les bénéfices et risques du traitement avant greffe est très favorable jusqu’à un score MELD de 20-21 ;
 
-Le traitement consistera en  l’administration de 2 principes actifs par exemple Sofosbuvir et ledipasvir ou daclatasvir en combinaison avec de la ribavirine pendant une durée de 3 mois plus rarement 6 mois. Vous serez pendant le traitement pris en charge par votre hépatologue référent ainsi par l’infirmière référente Virus C, Mme Muriel François. Ceux-ci vérifieront la disparition définitive du virus C de votre sang, attendue dans plus de 90% des cas.
+Le traitement consistera en  l’administration de 2 principes actifs par exemple Sofosbuvir et ledipasvir ou daclatasvir en combinaison avec de la ribavirine pendant une durée de 3 mois plus rarement 6 mois. Vous serez pendant le traitement pris en charge par votre hépatologue référent ainsi par l’infirmière référente Virus C. Ceux-ci vérifieront la disparition définitive du virus C de votre sang, attendue dans plus de 90% des cas.
 
 En cas d’inefficacité, un nouveau traitement anti viral C vous sera proposé après la transplantation
 

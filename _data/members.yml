@@ -9,7 +9,7 @@
       photo: elisabeth-martin.jpg
 
     - name: Nadia Chabou
-      bio: Secrétaire de coordination au CHU Henri Mondor de Créteil
+      bio: Assistante de coordination au CHU Henri Mondor de Créteil
       photo: nadia-chabou.jpg
 
     - name: Norbert Ngongang
@@ -26,9 +26,9 @@
       bio: Praticien hospitalier au CHU Henri Mondor de Créteil
       photo: jph-richardet.jpg
 
-    - name: Pr. Christophe Hézode
-      bio: Professeur en transplantation hépatique au CHU Henri Mondor de Créteil
-      photo: christophe-hezode.jpg
+    - name: Dr. Hélène Regnault
+      bio: Docteur en transplantation hépatique au CHU Henri Mondor de Créteil
+      photo: profile-placeholder.png
 
     - name: Dr. Charlotte Costentin
       bio: Praticien hospitalier au CHU Henri Mondor de Créteil
@@ -100,10 +100,6 @@
       bio: Assistante sociale
       photo: florence-dupont.jpg
 
-    - name: Nathalie Goncalves
-      bio: Diététicienne
-      photo: nathalie-goncalves.jpg
-
     - name: Laeticia Canonne
       bio: Diététicienne
       photo: laetitia-canonne.jpg
@@ -111,3 +107,7 @@
     - name: Priscille Blaudin
       bio: Psychologue
       photo: priscille-blaudin.jpg
+
+    - name: Frédérique Franco
+      bio: Assistante de recherche clinique
+      photo: profile-placeholder.png

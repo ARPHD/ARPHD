@@ -29,14 +29,14 @@
     - title: Parcours de soin à H. Mondor
       href: /parcours.html
 
+    - title: Prise en charge sociale
+      href: /prise-en-charge.html
+
     - title: Nutrition et greffe
       href: /nutrition.html
 
     - title: Prise en charge médicale
       href: /prise-en-charge-medicale.html
-
-    - title: Prise en charge sociale
-      href: /prise-en-charge.html
 
     - title: Questions fréquentes
       href: /faq.html
@@ -47,23 +47,15 @@
     - title: Documents utiles
       href: /documents.html
 
-- id: 5
-  title: Les associations
-  icon: header
-  opened: false
-  subtitles:
-    - title: Henri Mondor ARPHD
-      href: http://chu-mondor.aphp.fr/
-
-    - title: TransHépate
-      href: http://www.transhepate.org/
-
 - id: 2
   title: Accès médecin
   icon: plus
   opened: false
   subtitles:
-    - title: Thématiques de recherches
+    - title: Thématique de recherches
+      href: /publications.html
+
+    - title: Publications
       href: /publications.html
 
   #  - title: Données sur la greffe
@@ -75,8 +67,8 @@
     - title: Conférences
       href: /conferences.html
 
-  #  - title: Sociétés savantes
-  #    href: /learned_society.html
+    - title: Sociétés savantes
+      href: /learned_society.html
 
 - id: 4
   title: Aide a la décision en transplantation hépatique
@@ -109,3 +101,34 @@
 
     - title: Score Mayo Clinic CSP
       href: /scores/score_mayo_csp.html
+
+- id: 5
+  title: Les associations
+  icon: header
+  opened: false
+  subtitles:
+    - title: Henri Mondor ARPHD
+      href: http://chu-mondor.aphp.fr/
+
+    - title: TransHépate
+      href: http://www.transhepate.org/
+
+    - title: ELITA
+      href: a
+
+- id: 6
+  title: Les agences de santé
+  icon: header
+  opened: false
+  subtitles:
+    - title: ABM
+      href: a
+
+    - title: UNOS
+      href: a
+
+    - title: UK Transplant
+      href: a
+
+    - title: EuroTransplant
+      href: a

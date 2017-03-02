@@ -1,7 +1,7 @@
 ---
 title: Unité de Transplantation Hépatique - Questions fréquentes
 layout: collapse
-h1: Questions fréquentes
+h1: Questions fréquentes sur...
 ---
 
 # À quelles complications et symptomes m’exposent ma maladie hépatique ?
@@ -61,7 +61,7 @@ Le foie ne remplit plus ses fonctions normales : il ne peut plus filtrer les sub
 
   Si votre demande concerne votre équilibre alimentaire, téléphonez à l’infirmière coordinatrice  qui vous mettra en relation avec la diététicienne attachée au service (Mme CANNONE Laetitia).
 
-### Est-ce grave si je mange du pain salé ou de la charcuterie ?
+### Est-ce grave si je mange du pain ou de la charcuterie ?
 
 Oui car le pain et la charcuterie sont des aliments qui ont une quantité de sel non négligeable.
 
