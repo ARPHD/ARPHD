@@ -1,0 +1,40 @@
+---
+title: Unité de Transplantation Hépatique - Score CLIF-C ADs
+---
+<div class="container scoreform">
+  <div class="container">
+    <h1>Score CLIF-C ADs</h1>
+    <form name="score" class="score" action="javascript:calculateCLIFScore()">
+      <fieldset>
+        <legend>Age</legend>
+        <input type="number" name="age"><label for="age">ans</label>
+      </fieldset>
+      <fieldset>
+        <legend>Creatinine</legend>
+        <input type="number" name="creat"><label for="creat">&micro;mol/L</label>
+      </fieldset>
+      <fieldset>
+        <legend>INR</legend>
+        <input type="text" name="inr">
+      </fieldset>
+      <fieldset>
+        <legend>Sodium</legend>
+        <input type="number" name="sodium"><label for="sodium">mmol/L</label>
+      </fieldset>
+      <fieldset>
+        <legend>Leucocytes</legend>
+        <input type="number" name="glob"><label for="glob">/mm<sup>3</sup></label>
+      </fieldset>
+      <input type="submit" value="Calculer">
+    </form>
+    <div class="score">
+    Probabilité de survie
+      <table class="table">
+        <tr><th>1 mois</th><th>3 mois</th><th>6 mois</th><th>12 mois</th>
+        <tr><td id='result_1'></td><td id='result_2'></td><td id='result_3'></td><td id='result_4'>
+      </table>
+    <div id="result"></div>
+    </div>
+  </div>
+<p class='ref'>D’après Jalan R et al, J Hepatol 2015 ;62:831-40</p>
+</div>

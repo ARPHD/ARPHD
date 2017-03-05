@@ -19,14 +19,14 @@ title: Unité de Transplantation Hépatique - Score CLIF-SOFA
       </fieldset>
       <fieldset>
         <legend>Plaquettes</legend>
-        <input type="text" name="plaquettes">
+        <input type="text" name="plaquettes"><label for="plaquettes">/mm<sup>3</sup></label>
       </fieldset>
       <fieldset>
-        <legend>Pa02/FiO2</legend>
+        <legend>PaO<sub>2</sub>/FiO<sub>2</sub></legend>
         <input type="text" name="pafi">
       </fieldset>
       <fieldset>
-        <legend>Encephalopathie stade 3-4</legend>
+        <legend>Encephalopathie</legend>
         <input type="radio" name="encephal" value="low" id="low_encephal"><label for="low_encephal"><span><span></span></span>Absence</label>
         <input type="radio" name="encephal" value="mid" id="mid_encephal"><label for="mid_encephal"><span><span></span></span>Stade 1-2</label>
         <input type="radio" name="encephal" value="high" id="high_encephal"><label for="high_encephal"><span><span></span></span>Stade 3-4</label>
@@ -39,9 +39,8 @@ title: Unité de Transplantation Hépatique - Score CLIF-SOFA
       <input type="submit" value="Calculer">
     </form>
     <div class="score" style="width: 100%;min-height: 2em;padding-top:10px">
-      <p style="font-weight: bold;">Probabilité de survie</p>
       <table class="table">
-        <tr><th>Score</th><th>28 jours</th></tr>
+        <tr><th>Score</th><th>Probabilité de survie à 28 jours</th></tr>
         <tr><td id='result'></td><td id='result_1'></tr>
       </table>
     </div>

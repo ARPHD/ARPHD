@@ -82,6 +82,29 @@ function calculateAFPScore(){
   result.classList.add(score <= 2 ? 'good' : 'bad');
 }
 
+function calculateCLIFScore(){
+  var result = document.getElementById('result');
+  var score = 0;
+  var creat = (document.score.creat.value / 88.4).toFixed(2);
+  var age = document.score.age.value;
+  var inr = document.score.inr.value.replace(',', '.');
+  var sodium = document.score.sodium.value;
+  var glob = document.score.glob.value / 1000;
+
+  score = 10 * (0.03 * age + 0.66 * Math.log(creat) + 1.71 * Math.log(inr) + 0.88 * Math.log(glob) - 0.05 * sodium + 8);
+
+  if(score < 0)
+    score = 0;
+  else if(score > 100)
+    score = 100;
+
+  var constants = [[-0.00012, 0.1083], [-0.00056, 0.1007], [-0.00173, 0.0889], [-0.00879, 0.0698]];
+  for(var i = 0; i < constants.length; i++) {
+    var cell = document.getElementById("result_" + (i + 1));
+    cell.textContent = (Math.exp(constants[i][0] * Math.exp(constants[i][1] * score)) * 100).toFixed(0) + "%";
+  }
+}
+
 function calculateMELDScore(){
   var result = document.getElementById('result');
   var score = 0;
@@ -124,11 +147,11 @@ function calculateChildScore(){
   if(score > 15) score = 15;
 
   if(score < 7)
-    result.textContent = 'Classe A' + score;
+    result.textContent = 'A' + score;
   else if(score < 10)
-    result.textContent = 'Classe B' + score;
+    result.textContent = 'B' + score;
   else
-    result.textContent = 'Classe C' + score;
+    result.textContent = 'C' + score;
 }
 
 function calculateLilleScore(){
