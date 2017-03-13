@@ -444,6 +444,10 @@ pre
   color:#cdcdcd
 }
 
+a.credit {
+  display: block;
+}
+
 .label-danger
 {
   background-color:#697b7b;

@@ -29,4 +29,7 @@ defaults:
       layout: "post"
 
 destination: docs
-excludes: vendor
+exclude: ["script", "Gemfile"]
+
+gems:
+  - jekyll-sitemap
