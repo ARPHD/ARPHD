@@ -29,3 +29,4 @@ defaults:
       layout: "post"
 
 destination: docs
+excludes: vendor
