@@ -7,11 +7,11 @@ bundle exec jekyll build
 git config --global user.email "jeanbaptiste.richardet@gmail.com"
 git config --global user.name "JbIPS (Travis Bot)"
 
-git branch -a
 git checkout master
-git remote -v
-git status
-git add docs
-git commit -m 'Updates generated site'
-git status
-git push https://$GH_TOKEN@github.com/ARPHD/ARPHD.git master
+AUTHOR=$(git log --format="%an" | head -n 1)
+if ! echo "$AUTHOR" | grep 'Bot'; then
+  git add docs
+  git commit -m 'Updates generated site'
+  git status
+  git push https://$GH_TOKEN@github.com/ARPHD/ARPHD.git master
+fi
