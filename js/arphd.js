@@ -201,7 +201,7 @@ function calculateHERSScore(){
     default:
   }
   if(document.score.tumor.value == 'bi') score += 2;
-  if(document.score.invasion.checked) score += 2;
+  if(document.score.invasion.value == 'invasion') score += 2;
 
   var prob = [[3, 7, 8], [5, 10, 11], [7, 13, 15], [9, 18, 21], [12, 24, 28], [17, 31, 35], [22, 40, 46], [29, 52, 59], [39, 64, 71], [49, 77, 82], [61, 87, 91], [73, 94, 96]];
   result.textContent = score;
