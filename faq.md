@@ -57,9 +57,9 @@ Le foie ne remplit plus ses fonctions normales : il ne peut plus filtrer les sub
 
   Si votre appel concerne l’organisation de votre bilan pré greffe, si vous avez besoin de renseignements concernant votre maladie ou de conseils, vous devez téléphoner à votre infirmière coordinatrice.
 
-  Si votre demande concerne un problème d’ordre social, l’infirmière coordinatrice vous orientera vers l’assistante sociale attachée au service (Mme DUPONT THOMAS Florence).
+  Si votre demande concerne un problème d’ordre social, l’infirmière coordinatrice vous orientera vers l’assistante sociale attachée au service ([contact](contact.html#assistante-sociale)).
 
-  Si votre demande concerne votre équilibre alimentaire, téléphonez à l’infirmière coordinatrice  qui vous mettra en relation avec la diététicienne attachée au service (Mme CANNONE Laetitia).
+  Si votre demande concerne votre équilibre alimentaire, téléphonez à l’infirmière coordinatrice  qui vous mettra en relation avec la diététicienne attachée au service ([contact](infirmière-d-éducation-en-diabétologie-mme-mahjoubi)).
 
 ### Est-ce grave si je mange du pain ou de la charcuterie ?
 
@@ -339,4 +339,4 @@ La durée de vie du greffon et votre espérance de vie seront essentiellement vo
 
 Il est très important de vous rendre aux rendez-vous de prises de sang et consultations, d'examens complémentaires tels que les échographies hépatiques, les scanners abdominaux qui vous sont prescrits car seul un suivi hépatologique régulier permettra  de prévenir ou de déceler une complication de votre cirrhose.
 
-La cirrhose du foie évolue et seul votre hépatologue connait bien votre histoire et vos antécédents. Le manquement à une bonne observance du suivi médical et à la bonne prise des traitements figurant sur votre ordonnance vous expose davantage aux complications citées plus hauts. Ces complications peuvent etre graves et mettre en jeu votre pronostic vital si elles ne sont pas décelées ou traitées à temps, et entraineront de facto des hospitalisations répétées. 
+La cirrhose du foie évolue et seul votre hépatologue connait bien votre histoire et vos antécédents. Le manquement à une bonne observance du suivi médical et à la bonne prise des traitements figurant sur votre ordonnance vous expose davantage aux complications citées plus hauts. Ces complications peuvent etre graves et mettre en jeu votre pronostic vital si elles ne sont pas décelées ou traitées à temps, et entraineront de facto des hospitalisations répétées.

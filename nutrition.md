@@ -14,7 +14,7 @@ La maladie hépatique dont vous souffrez peut être responsable d'une perte d'ap
 La réponse médicale habituelle sur le plan diététique est l’instauration de régimes très restrictifs sans sel, sans sucre ou  pauvre en protéines. Dans d'autres cas, la prescription médicale sera orientée  sur la réduction de l'obésité et de la graisse hépatique …..&#x1F61E;&#x1F61E;
 La plupart des patients relèvent la difficulté de manger, le problème de la satiété rapide, l'absence de plaisir alimentaire et la fatigue que représente l'acte de se nourrir.
 
-> Pour vous aider un conseil diététique spécialisé et individualisé vous sera systématiquement proposé (Mme N Goncalves, tel : 01 49 81 49 28 ; email : [nathalie.goncalves@aphp.fr](mailto:nathalie.goncalves@aphp.fr))
+> Pour vous aider un conseil diététique spécialisé et individualisé vous sera systématiquement proposé ([Contact](contact.html#diététicienne-mme-goncalves))
 
 Bien manger en attendant la greffe... pour améliorer son immunité aussi !
 
