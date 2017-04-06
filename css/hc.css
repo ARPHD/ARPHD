@@ -71,6 +71,10 @@ h3 {
   color: #666;
 }
 
+p, h3 {
+  clear: left;
+}
+
 table {
   border: 1px solid black;
   margin: 30px;
