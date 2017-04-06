@@ -71,6 +71,21 @@ h3 {
   color: #666;
 }
 
+table {
+  border: 1px solid black;
+  margin: 30px;
+}
+
+th {
+  border: 3px solid black;
+}
+
+td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
 /* H4 in FAQ */
 .panel-body h4 {
   text-decoration: underline;
@@ -498,6 +513,11 @@ img
 {
   max-width:70%;
   margin: 15px;
+}
+
+strong > img {
+  max-width: 500px;
+  float: left;
 }
 
 #article
@@ -974,7 +994,9 @@ img[alt=Complements] {
   margin: 0 auto;
 }
 
-img[alt=Graphique] {
+img[alt=Graphique],
+img[alt=Fruits],
+img[alt=Strategie]{
   display: block;
   width: 400px;
   margin: 30px auto;
