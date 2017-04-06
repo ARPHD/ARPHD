@@ -1,32 +1,35 @@
 - name: Coordination de transplantation (Mme Martin/Mme Goyon/Me Chabou)
-  tel: 01.49.81.23.54 (infirmières)
-  tel2: 01.49.81.43.18 (secrétariat)
-  email: coordinatrice.13hge@aphp.fr 
+  tel: 01.49.81.23.54 (infirmières coordinatrices)
+  tel2: 01.49.81.43.18 (assistante de coordination)
+  fax: 01.45.17.80.32
 
 - name: Consultation d’hépatologie
-  tel: 01.49.81.23.57 ou 01.49.81.43.55
+  tel: 01.49.81.23.57
+  tel2: 01.49.81.43.55
   fax: 01.49.81.49.19
   email: rdvconsult.hge@aphp.fr
 
 - name: Accueil Hospitalier
-  tel: 01.49.81.23.61 ou 01.49.81.23.71
+  tel: 01.49.81.23.61
+  tel2: 01.49.81.23.71
   fax: 01.49.81.43.60
   email: sandrine.bellerose@aphp.fr
   email2: cathy.ntumba@aphp.fr
 
 - name: Unité d’hospitalisation C
-  tel: 01.49.81.23.74 / 63.25
+  tel: 01.49.81.23.74
+  tel2: 01.49.81.63.25
 
 - name: Assistante Sociale
   tel: 01.49.81.23.72
-  email: florence.dupont-thomas@aphp.fr
+  email: florence.dupont@aphp.fr
 
-- name: Infirmière d’éducation en Diabétologie(Mme Mahjoubi)
+- name: Infirmière d’éducation en diabétologie
   tel: 01.49.81.21.11 (standard)
 
-- name: Diététicienne (Mme Goncalves)
+- name: Diététicienne (Mme Canonne)
   tel: 01.49.81.49.28
 
-- name: Addictologie (Dr Trabut/ Dr Stabusch/Dr Zerdazi)
+- name: Addictologie (Dr Trabut/ Dr Stabusch)
   tel: 01.49.81.33.45
   fax: 01.49.81.32.60

@@ -52,6 +52,9 @@ Notez que la présence d'une personne dite  "référente" de votre choix (qui pe
 Si nécessaire, un arret de toute substance toxique tels que l'alcool et le tabac pouvant contre indiquer la greffe sera demandé.
 Pour vous aider dans cette démarche de sevrage, un suivi addictologique vous sera proposé.
 
+Vous aurez la possibilité, ainsi que vos proches, de rencontrer la psychologue du service, pour un ou plusieurs entretiens.  
+Tout au long du parcours, ces temps d'échanges seront l'occasion pour vous d'exprimer votre vécu de la greffe à venir et des soins, votre compréhension, vos questions, vos motivations et appréhensions, ou tout autre sujet que vous souhaiterez évoquer.
+
 ## Dépistage de contre indications formelles à la greffe
 
 Lors du bilan pré greffe, des contre-indications définitives ou temporaires peuvent intervenir dans les cas suivants :
