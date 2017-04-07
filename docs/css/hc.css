@@ -519,6 +519,12 @@ img
   margin: 15px;
 }
 
+em > img {
+  max-width: 500px;
+  margin: 35px auto;
+  display: block;
+}
+
 strong > img {
   max-width: 500px;
   float: left;
@@ -822,11 +828,9 @@ time
 }
 
 div.score {
-  font-size: 20px;
- float:left;
  color:#818181;
   min-height: 5em;
-  min-width: 10em;
+  min-width: 26em;
  background: #DDD;
  border: 2px solid #ccc;
  padding:10px;
@@ -938,6 +942,23 @@ form.score input[type="submit"]{
   margin: 5px;
   padding: 2px;
 }
+
+.score > table {
+  border: none;
+  margin: 10px;
+  width: 95%;
+}
+
+.score th {
+  border: none;
+}
+
+.score td {
+  border: none;
+  padding: 10px;
+  text-align: center;
+}
+
 
 .pharma > img{
   width: 100%;
