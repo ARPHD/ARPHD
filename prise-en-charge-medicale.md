@@ -24,9 +24,7 @@ Une fois inscrit sur liste, le temps d’attente en vue de la greffe pour carcin
 
 Cette technique, conduite sous anesthésie générale, consiste à détruire à l’aide d’une électrode chauffante votre tumeur hépatique, en passant à travers la peau. La procédure, très efficace,  nécessite environ 1 heure et  s’applique à des lésions (ou nodules) tumoraux de petite taille , inférieur à 3 cm de diamètre habituellement, et peu nombreux : 1 à 2 lésions. Si la fonction du foie est trop altérée, notamment en cas de trouble de la coagulation, de plaquettes trop basses ou d’ascite, cette technique ne peut pas s’appliquer.  Un mois après le traitement un scanner ou une IRM de contrôle sont effectués pour vérifier qu’il n’y a plus de tumeur active. Si du tissu tumoral actif persiste, une seconde séance peut être réalisée. Dans tous les cas la surveillance par un scanner tous les 3 mois doit être poursuivie jusqu’à la greffe.  La procédure nécessite 24h d’hospitalisation.
 
-![Radiofrequence](images/radiofrequence1.jpg)
-![Radiofrequence](images/radiofrequence2.jpg)
-![Radiofrequence](images/radiofrequence3.jpg)
+**![Radiofrequence](images/radiofrequence1.jpg)![Radiofrequence](images/radiofrequence2.jpg)![Radiofrequence](images/radiofrequence3.jpg)**
 
 [Plus d'informations](http://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-du-foie/Radiofrequence)
 
@@ -34,7 +32,7 @@ Cette technique, conduite sous anesthésie générale, consiste à détruire à 
 
 Cette technique s’adresse à des lésions plus nombreuses ou plus volumineuses, lorsque la fonction de votre foie le permet. Elle consiste à faire monter, sous anesthésie locale, une petite sonde souple (un cathéter) au contact des vaisseaux qui irriguent votre ou vos tumeurs  et à injecter dans celles-ci de fines particules pour obstruer (emboliser) ces vaisseaux et provoquer la destruction de la lésion. Cette injection est couplée à l’injection locale d’une chimiothérapie. La chimiothérapie n’a pas d’effet secondaire mais l’embolisation peut générer des douleurs hépatiques et de la fièvre, qui traduisent en général une bonne réponse au traitement. Ici aussi, l’efficacité du traitement est contrôlée par un scanner un mois après la procédure puis tous les 3 mois. La procédure peut ainsi être renouvelée 2 à 3 fois  jusqu’à la greffe. Elle nécessite à chaque fois une hospitalisation de 48h.
 
-![Chimioembolisation](images/chimioembolisation.jpg)
+_![Chimioembolisation](images/chimioembolisation.jpg)_
 
 [Plus d'informations](http://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-du-foie/Chimioembolisation)
 
@@ -46,7 +44,7 @@ Le principe est voisin de celui de la chimioembolisation mais les particules inj
 
 Dans certains cas, assez rares, l’équipe médico-chirurgicale en charge de votre dossier peut considérer que l’ablation limitée de votre tumeur par chirurgie (on dit  résection  chirurgicale) peut être une solution pour attendre la greffe. Cette  technique n’est envisageable que lorsque la fonction de votre foie est excellente. L’indication de transplantation hépatique après cette 1ère opération doit être maintenue car le tissu hépatique laissé en place reste cirrhotique et expose à la survenue d’une 2nde tumeur. La transplantation est cependant différée jusqu’à la survenue d’une autre tumeur. Vous serez alors placé en contre indication temporaire sur la liste de greffe jusqu’à réapparition d’une 2nde lésion, ce qui survient en un délai très variables allant de quelques mois à plusieurs années. La surveillance tous les 3 mois par scanner de votre foie est indispensable pendant cette période.
 
-![Résection](images/resection.jpg)
+_![Résection](images/resection.jpg)_
 
 [Plus d'informations](http://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-du-foie/L-ablation-partielle)
 

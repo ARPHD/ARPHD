@@ -1,7 +1,7 @@
 ---
-title: Unité de Transplantation Hépatique - Parcours de transplantation hépatique à Henri Mondor
-permalink: /parcours
-layout: tabs
+title: Unité de Transplantation Hépatique - Parcours de transplantation hépatique pré-greffe à Henri Mondor
+layout: collapse
+h1: Parcours de transplantation à Henri Mondor - avant la greffe
 ---
 # Le bilan pré greffe
 
@@ -21,10 +21,10 @@ Ce bilan complet peut prendre une à deux semaines et peut ètre réalisé de ma
 
 Les différentes étapes du bilan pré greffe:
 
-## Le bilan morphologique
+### Le bilan morphologique
 Une échographie doppler hépatique et un scanner abdomino-pelvien visent à renseigner le chirurgien sur l'anatomie des vaisseaux et des voies biliaires du foie en prévision de l'intervention.
 
-## Le bilan d'opérabilite
+### Le bilan d'opérabilite
 Il permet de faire un bilan exhaustif de votre état général par une évaluation de vos fonctions cardiaque, pulmonaire et rénale. Ces examens détermineront les risques potentiels que vous encourez selon vos antécédants ( hypertension artérielle, diabète, tabac, alcool, obésité, cancer).
 Les examens :
 
@@ -32,13 +32,13 @@ Les examens :
 * scintigraphie cardiaque d'effort
 * épreuves fonctionnelles respiratoires.
 
-## Le bilan infectieux
+### Le bilan infectieux
 Son objectif est de détecter des infections avérées ou latentes, notamment du poumon et de la sphère ORL par le biais de l'imagerie (panoramique dentaire, scanner des sinus et scanner du thorax) et de consultations avec un dentiste, un médecin ORL et un pneumologue.
 Il est complété par une prise de sang, un prélèvement uriniare et des prélèvements d'hygiène.
 Si ces prélèvements révèlent l'existence d'un portage de bactéries dites "multirésistantes" (c'est à dire difficiles à traiter par les antibiotiques classiques), un isolement en chambre particulière avec des précautions spécifiques seont peut ètre nécessaires.
 D'autre part, ce bilan permet de connaitre votre "statut viral" avant le jour de l'intervention et de prévoir un traitement préventif systématique.
 
-## Le bilan psycho-social
+### Le bilan psycho-social
 
 Il tend à évaluer:
 
@@ -55,7 +55,7 @@ Pour vous aider dans cette démarche de sevrage, un suivi addictologique vous se
 Vous aurez la possibilité, ainsi que vos proches, de rencontrer la psychologue du service, pour un ou plusieurs entretiens.  
 Tout au long du parcours, ces temps d'échanges seront l'occasion pour vous d'exprimer votre vécu de la greffe à venir et des soins, votre compréhension, vos questions, vos motivations et appréhensions, ou tout autre sujet que vous souhaiterez évoquer.
 
-## Dépistage de contre indications formelles à la greffe
+### Dépistage de contre indications formelles à la greffe
 
 Lors du bilan pré greffe, des contre-indications définitives ou temporaires peuvent intervenir dans les cas suivants :
 
@@ -75,13 +75,11 @@ Ce bilan se termine par une consultation avec un chirurgien viscéral, un anesth
 
 **L'inscription sur liste d'attente de greffe hépatique auprès de l'Agence de Biomédecine est effectuée par l'infirmière coordinatrice lorsque toutes les contre-indications à la greffe ont été éliminées. Elle signe la fin de votre bilan pré greffe**.
 
-## Consultation de fin de bilan pré greffe
+### Consultation de fin de bilan pré greffe
 Ce bilan se termine par une consultation avec un chirurgien hépatique, un anesthésiste et l'hépatologue référent.
 L'inscription sur liste nationale d'attente de greffe hépatique auprès de l'Agence de Biomédecine par l'infirmière coordinatrice signe la fin de votre bilan pré greffe
 
 # Inscription et phase d'attente
-
-## L’inscription sur liste d'attente
 
 Les examens réalisés lors de votre bilan pré greffe n’ont pas révélé de contre indication formelle à la transplantation hépatique, l’infirmière coordinatrice va pouvoir procéder à votre inscription sur la liste nationale d’attente auprès de l’Agence de Biomédecine, après la validation de votre dossier par votre hépatologue référent, un anesthésiste et un chirurgien transplanteur.
 
@@ -89,7 +87,7 @@ Cette inscription nécessite votre consentement, c’est pourquoi l’infirmièr
 
 Le score MELD calculé à partir de  données biologiques  (prise de sang) déterminera votre position sur la liste d’attente. En effet ce score permet de faire connaitre à l’Agence de Biomédecine le degré d’urgence de la transplantation hépatique.
 
-## La phase d'attente
+# La phase d'attente
 
 La durée d’attente sur liste est variable selon l’origine et la gravité de votre maladie de foie. Elle peut aller de quelque jours à plus d’un an, d’où l’importance de nous informer régulièrement de l’évolution de votre état de santé (amélioration ou dégradation) pour que nous puissions actualiser en temps réel votre position sur la liste d’attente en renseignant au minimum tous les 3 mois les résultats de bilans sanguins auprès de l’Agence de Biomédecine.
 Pendant cette phase d’attente, vous devez tout faire pour maintenir au mieux votre état de santé.
@@ -130,14 +128,17 @@ Notez que la jaunisse débute parfois par le blanc des yeux qui devient plus jau
 
 Dès le constat d’un problème de santé par vous-même ou vos proches, vous devez contacter rapidement votre médecin traitant, ou votre hépatologue référent et l’infirmière coordinatrice qui pourrons juger de la gravité de vos symptomes et vous conseillerons sur la conduite à tenir. La réalisation d’un bilan en ambulatoire voire une hospitalisation en unité de soins seront  peut etre nécessaires.
 
-## L'appel à la greffe
+# L'appel à la greffe
+
+### L'appel
 
 L’ Agence de Biomédecine gère de manière indépendante la répartition des organes sur tout le territoire français. Elle recense les greffons disponibles et les propose aux équipes de transplantation.
 Une fois que l’organe proposé est accepté par un chirurgien transplanteur, celui-ci prévient l’infirmière du service de chirurgie viscérale et lui demande de vous appeler.
 Notez que cet appel peut arriver à tout moment, de jour comme de nuit, en semaine ou en week end, etc.. D’où l’importance de faire en sorte d’etre joignable facilement à tout moment dès votre inscription sur la liste d’attente.
 Attention, votre téléphone portable doit ètre chargé en permanence et audible de jour comme de nuit
 
-Comment répondre à l’appel à la greffe ?
+### Comment répondre à l’appel à la greffe ?
+
 Vous devrez signaler à l’infirmière qui vous appelle si vous avez une infection en cours (fièvre, frissons, toux, diarrhées,  traitement par antibiotiques) ;
 Vous devrez rester à jeun dès l’appel (arréter de manger, de boire et de fumer)
 Contactez de suite la société d’ambulance (que vous aurez retenue lors de votre inscription sur liste d’attente)
@@ -149,14 +150,10 @@ Un proche peut vous accompagner et rester auprès de vous dans la chambre jusqu�
 Pendant le bilan pré greffe, l’infirmière coordinatrice vous remettra un document d’information concernant le départ pour la greffe ainsi que tous les numéros de téléphone dont vous ou vos proches aurez besoins
 L’infirmière qui vous contacte lors de l’appel à la greffe vous donnera toutes les explications concernant les modalités de votre admission à l’hopital que ce soit de jour ou de nuit.
 
-## Votre arrivée dans le service de chirurgie viscérale
+### Votre arrivée dans le service de chirurgie viscérale
 
 A votre arrivée, vous serez accueilli par une infirmière de chirurgie, un bilan pré opératoire vous sera fait (prélèvement sanguin et urinaire, radiographie des poumons et électrocardiogramme) et vous verrez un anesthésiste et le chirurgien transplanteur
 Si le bilan préopératoire est normal et si le greffon prélevé est jugé de bonne qualité, vous serez préparé pour l’intervention.
 Il faut savoir que si le greffon prélevé est jugé de mauvaise qualité par le chirurgien, on vous demandera de retourner chez vous car la greffe ne pourra  pas etre réalisée. Seul l’examen visuel du greffon après l’explantation permet au chirurgien de savoir si l’organe pourra etre utilisé ou non.
 
 Informez la personne qui vous accompagne qu’il n’est pas nécessaire qu’elle reste à l’hopital le temps de l’intervention chirurgicale mais qu’elle  pourra avoir des informations vous concernant  dès votre sortie du bloc opératoire en appelant le service de réanimation digestive.
-
-# L'intervention
-
-# Le suivi à long terme

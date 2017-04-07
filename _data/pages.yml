@@ -26,8 +26,14 @@
     - title: Quand envisager une greffe ?
       href: /indications-greffe.html
 
-    - title: Parcours de soin à H. Mondor
-      href: /parcours.html
+    - title: Parcours de soin avant la greffe
+      href: /parcours-pre-greffe.html
+
+    - title: La greffe
+      href: /la-greffe.html
+
+    - title: Parcours de soin après la greffe
+      href: /parcours-post-greffe.html
 
     - title: Prise en charge sociale
       href: /prise-en-charge.html
@@ -117,21 +123,21 @@
       href: http://www.transhepate.org/
 
     - title: ELITA
-      href: a
+      href: http://www.esot.org/ELITA/home
 
 - id: 6
   title: Les agences de santé
   icon: header
   opened: false
   subtitles:
-    - title: ABM
-      href: a
+    - title: L'Agence de BioMédecine
+      href: https://www.agence-biomedecine.fr/
 
     - title: UNOS
-      href: a
+      href: https://www.unos.org/
 
     - title: UK Transplant
-      href: a
+      href: http://ukhealthcare.uky.edu/transplant/
 
     - title: EuroTransplant
-      href: a
+      href: https://www.eurotransplant.org/cms/ 

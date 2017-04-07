@@ -3,8 +3,12 @@ module Jekyll
     def collapse(input, index=1)
       questions = input.split("<h3")
       # Remove first, it's a residue of h1
-      questions.shift();
+      leftover = questions.shift();
       output = '<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">'
+      #output += '<!-- '+leftover+'-->' 
+      if leftover.start_with?("<p>")
+        output += '<div class="panel-body">' + leftover + '</div>'
+      end
       id = 1
       for q in questions
         suffix = index.to_s + '_' + id.to_s;
@@ -39,6 +43,13 @@ module Jekyll
           output += '</div></div></div>'
         end
         id += 1
+      end
+
+      # No questions      
+      if id == 1
+        tmp = leftover.split('<')
+        tmp.shift(2);
+        output += '<div class="panel-body"><' + tmp.join('<') + '</div>'
       end
 
       output += '</div>'

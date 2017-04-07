@@ -1,7 +1,8 @@
 ---
 title: Unité de Transplantation Hépatique - Indication de la transplatation hépatique
+h1: Quand envisager une transplantation hépatique ?
+layout: accordion
 ---
-# Quand envisager une transplantation hépatique ?
 
 Une greffe de foie, ou transplantation hépatique, est envisagée devant toute maladie du foie, grave, irréversible, et ne pouvant bénéficier d’aucun autre traitement.
 Cette maladie est  le plus souvent une cirrhose compliquée.
@@ -16,7 +17,7 @@ La gravité de la maladie peut être chiffrée objectivement par des scores comb
 
 Beaucoup plus rares, les hépatites aiguës gravissimes ([hépatites fulminantes](#indication-de-transplantation-pour-hépatite-fulminante)), au cours desquelles le pronostic vital peut être engagé en quelques jours, sont également un motif de transplantation.
 
-## Indication de transplantation pour cirrhose alcoolique
+### Indication de transplantation pour cirrhose alcoolique
 
 La cirrhose alcoolique est l’indication de greffe la plus fréquente en France, mais ne représente que 25% des transplantations.
 Comme pour toutes les cirrhoses, c’est la survenue et/ou la répétition de complications graves qui font envisager l’intervention.
@@ -30,7 +31,7 @@ L’évaluation addictologique fait donc partie intégrante du bilan pré-opéra
 
 La poursuite de la prise en charge addictologique après la greffe est également indispensable en parallèle à la surveillance médicale habituelle
 
-## Indication de transplantation pour cirrhose métabolique
+### Indication de transplantation pour cirrhose métabolique
 
 Le syndrome métabolique, qui associe plus ou moins surpoids, diabète, augmentation des triglycérides et /ou du cholesterol et hypertension artérielle, s’accompagne d’une accumulation de graisse dans les cellules hépatiques (stéatose). Celle-ci est habituellement bien tolérée par le foie mais peut parfois s’accompagner de lésions plus sévères (stéato-hépatite ou NASH en anglais pour Non Alcoholic Steato Hepatitis) et évoluer au fil des années vers la cirrhose et ces complications.
 
@@ -40,7 +41,7 @@ Dans ces cas de cirrhose secondaire à une NASH, le bilan pré-opératoire doit 
 
 Après la transplantation, le syndrome métabolique persiste, ce d’autant que le diabète, l’hypercholestérolémie et l’hypertension artérielle sont des effets secondaires fréquents des traitements anti-rejet. Un [suivi diététique](contact.html#diététicienne-mme-goncalves) est souvent indiqué pour en minimiser les répercussions.
 
-## Indication de transplantation pour cancer
+### Indication de transplantation pour cancer
 
 On distingue 2 grands types de cancer du foie : les cancers hépatiques dits primitifs qui se développent par transformation maligne de cellules hépatiques et les cancers hépatiques secondaires qui correspondent à des métastases des cancers développés initialement dans d’autres organes que le foie.
 La greffe hépatique ne concerne, à l’exception des métastases de tumeurs très rares dites neuro-endocrines, que les cancers primitifs du foie. En pratique, 99% des indications de transplantation hépatique pour cancer en France concernent  la tumeur hépatique la plus fréquente appelée carcinome hépato-cellulaire ou CHC. Le CHC complique dans la plupart des cas une cirrhose, quelle qu’en soit l’origine. Le CHC peut se présenter sous forme d’une ou plusieurs lésions (nodules) dont les caractéristiques sont précisées par scanner et /ou IRM.  Il existe cependant un risque de récidive du cancer après transplantation et la transplantation est considérée comme faisable si ce risque est faible et n’excède pas 10-15%. Pour identifier ce risque on utilise en France un score appelé score AFP,  qui prend en compte la taille et le nombre de nodules de CHC et le niveau sanguin d’un  marqueur tumoral appelé AFP.
@@ -58,7 +59,7 @@ Dans 1% des cas,  la transplantation peut être envisagée pour des tumeurs bea
 
 Après la greffe, une analyse macro et microscopique de votre foie retiré (on dit explanté) sera effectuée par un spécialiste appelé anatomo-pathologiste. Cette analyse permettra de préciser s’il persiste des lésions tumorales actives malgré les traitements et leur agressivité. Le risque de récidive pourra donc être réévalué grâce à cet examen et si nécessaire, des modifications de votre traitement pourront vous être proposées pour limiter ce risque.  Pendant 3 à 5 ans après la greffe, une surveillance trimestrielle  puis semestrielle par scanner et dosage de l’AFP sera mise en place pour dépister et traiter tôt une éventuelle récidive.
 
-## Indication de transplantation pour cirrhose virale B et C
+### Indication de transplantation pour cirrhose virale B et C
 L’indication de transplantation est identique à celle des autres cirrhoses et doit être envisagée quand le [score MELD](scores/score_meld.html) est > 15 avec une complication indiquant une décompensation de la maladie hépatique (jaunisse, ascite, encéphalopathie, hémorragie). C’est en effet à partir de ce stade de gravité de votre maladie hépatique que l’on considère que les avantages liés à la transplantation deviennent très supérieurs aux risques.
  L’indication de transplantation pour cirrhose virale B ou C comporte cependant 2 particularités :
 
@@ -67,18 +68,18 @@ L’indication de transplantation est identique à celle des autres cirrhoses e
 
 Ces 2 particularités expliquent pourquoi votre médecin examinera avec vous systématiquement la possibilité d’un traitement anti viral avant la greffe  et parfois celle d’un traitement anti viral après la greffe pour prévenir la réinfection du greffon.
 
-### Cirrhose virale B
+#### Cirrhose virale B
 Les traitements envisagés pour vous  avant la greffe sont la lamivudine (Zeffix),  l’entécavir (Baraclude) ou le ténofovir (Viréad).  Une fois le traitement débuté, votre médecin procédera à un contrôle trimestriel de la multiplication du virus B  et du score MELD.
 
 * Si le score MELD s’améliore suffisamment sous traitement anti-viral avec une disparition des signes de décompensation, il pourra vous proposer d’être placé en position inactive sur la liste d’attente et secondairement de sortir de la liste s’il juge que votre état s’est suffisamment amélioré.
 * Si le score MELD ne s’améliore pas, il vous proposera après la transplantation de poursuivre le même traitement anti viral en l’associant à des anticorps anti-virus B appelés Immunoglobulines, sous forme intra veineuse tous 3 à 4 mois (IVBEX) ou par voie sous cutanée chaque semaine (Zutectra).
 * *Cas particulier du recours à un greffon anti HBc positif* : Du fait de ce traitement anti viral B obligatoire après la greffe, très efficace contre l’hépatite B, votre médecin  et votre infirmière de coordination vous proposeront  aussi, si le temps d’attente est long, de recevoir avec votre accord un greffon ayant été en contact avec le virus B mais pour lequel la guérison sans séquelle de l’infection virale B a été obtenue préalablement au don. On appelle ces greffons parfaitement sains anti HBc+, car anti HBc+ désigne la signature du contact ancien et de l’élimination  du virus B.  Cette proposition, autorisée par l’Agence de la Biomédecine, permet d’accéder plus rapidement à la greffe sans aucun risque d’infection virale B puisque le traitement anti viral B définitif après la greffe est de toute façon nécessaire dans votre cas.
 
-### Cirrhose virale C
+#### Cirrhose virale C
 Les traitements envisagés reposent sur une combinaison de comprimés 1 fois par jour pendant 3 mois , le plus souvent Sofosbuvir et ledipasvir (Harvoni, en un seul comprimé/j) ou Sofosbuvir  (Sovaldi) et daclatasvir sous forme de 2 cps par jour, parfois associés à de la ribavirine (Copegus). Ces médicaments, très efficaces pour éliminer le virus C, vous seront proposés si votre score MELD est <22.  Ils pourront entraîner une amélioration de la fonction de votre foie, appréciée sur l’évaluation trimestrielle du score MELD, et pourront faire envisager une mise en position inactive sur liste puis une sortie de liste de greffe dans 1 cas sur 5 à 1 cas sur 10 lorsque le score MELD s’améliore suffisamment et que disparaissent les signes de décompensation.
 Si le traitement anti viral C ne peut pas être conduit avant la greffe, ce traitement vous sera proposé après la greffe si l’infection virale C récidive sur votre greffon, ce qui survient de façon quasi constante.  L’utilisation de ces traitements en post-transplantation, selon les mêmes modalités,  permettra la guérison de l’hépatite C post greffe dans  95% des cas.
 
-## Indication de transplantation pour maladie des voies biliaires
+### Indication de transplantation pour maladie des voies biliaires
 
 Un cholestase , qui correspond à une diminution de la sécrétion de bile par le foie, peut , lorsqu’elle est très prolongée, aboutir à la constitution d’une cirrhose. Parvenues à ce stade, les cholestases chroniques peuvent devenir une indication de transplantation hépatique.
 Chez l’adulte, deux maladies cholestatiques  principales sont observées :
@@ -86,7 +87,7 @@ Chez l’adulte, deux maladies cholestatiques  principales sont observées :
 * La cholangite biliaire primitive (CBP) correspond à une inflammation des petits canaux biliaires à l’intérieur du foie (uniquement visibles au microscope), responsable de leur destruction progressive avec anomalie de la sécrétion biliaire. La maladie est de cause inconnue mais touche préférentiellement les femmes d’âge moyen. Un traitement par acide ursodesoxycholique permet d’arrêter ou de ralentir la progression de la maladie mais cette cholestase chronique peut cependant lentement évoluer vers des lésions cicatricielles sévères avec apparition d’un ictère (jaunisse), d’un prurit (démangeaisons) et constitution d’une authentique cirrhose. A ce stade, l’indication de transplantation doit être discutée, en fonction des critères de gravité communs à toutes les cirrhoses (score MELD).
 * La cholangite sclérosante primitive (CSP) est une maladie inflammatoire touchant les voies biliaires de plus gros calibre (visibles sur un examen radiologique) intra et extra-hépatiques et aboutissant à une déformation des canaux biliaires qui alternent des zones dilatées et des rétrécissements (sténose). La sécrétion biliaire est perturbée, cette cholestase pouvant évoluer à terme vers la constitution d’une cirrhose. La maladie est de cause inconnue et touche préférentiellement les hommes jeunes. Une maladie inflammatoire de l’intestin est fréquemment associée. Outre la cirrhose, la CSP peut se compliquer de la survenue d’une tumeur maligne des voies biliaires, ou cholangiocarcinome. La transplantation peut être proposée en traitement des complications de la cirrhose, mais le cholangiocarcinome représente habituellement une contre-indication à l’intervention compte tenu du risque important de récidive post opératoire.
 
-## Indications plus rares de greffe chez les patients adultes
+### Indications plus rares de greffe chez les patients adultes
 
 De nombreuses maladies rares, souvent d’origine génétique, peuvent faire l’objet d’une indication de transplantation ; parmi les plus fréquentes chez l’adulte:
 
@@ -95,7 +96,7 @@ De nombreuses maladies rares, souvent d’origine génétique, peuvent faire l�
 Il s’agit d’une maladie génétique le plus souvent à transmission dominante, ce qui signifie que la maladie est fréquemment observée chez des personnes de votre entourage familial (ascendants, fratrie, descendants). Au cours de cette maladie, de nombreux kystes se développent dans le foie et les reins. Les kystes peuvent saigner ou s’infecter. La fonction rénale s’altère progressivement et cette dégradation peut conduire à l’hémodialyse. La fonction hépatique reste le plus souvent normale mais les kystes, lorsqu’ils sont très volumineux, peuvent entrainer une gêne importante dans la vie quotidienne, un retentissement nutritionnel avec un amaigrissement et des fractionnement des repas voire une hypertension portale.
 Dans cette situation, lorsque la polykystose  hépatique retentit significativement sur votre état général, l’indication de greffe, combinée le plus souvent mais pas toujours, à la greffe rénale,  doit être envisagée. Le temps d’attente est de l’ordre de 1 an grâce à un régime particulier d’accès à la greffe. Une greffe rénale associée est proposée en cas d’hémodialyse ou d’altération rapide de votre fonction rénale.
 La coupe de scanner ci-dessous illustre la façon dont la polykystose peut augmenter de façon considérable la taille du foie et déformer l’abdomen
-![Image](images/polykystose.jpg)
+_![Image](images/polykystose.jpg)_
 * La maladie de Wilson et l’hémochromatose génétique : il s’agit de 2 maladies qui résultent pour  la 1ère d’une accumulation de cuivre et pour la 2nde d’une accumulation de fer dans le foie.  Dans les 2 cas l’accumulation hépatique de Cu ou Fe provoque une inflammation hépatique chronique qui évolue vers la cirrhose et la décompensation.
 Au cours de la maladie de Wilson (schéma) le cuivre  s’accumule également dans certaines régions du cerveau et peut entraîner des manifestations neurologiques qui peuvent simuler une maladie de Parkinson ou atteindre le  cervelet, et s’accompagner d’une dégradation des fonctions supérieures
 Au cours de l’hémochromatose (schéma), le fer peut également léser le pancréas, le cœur, les articulations.
@@ -105,7 +106,7 @@ Dans ces 2 maladies,  la greffe hépatique permet la guérison de la maladie hé
 La stagnation du sang induit une souffrance hépatique aiguë puis chronique, une insuffisance hépatique et une ascite et peut favoriser  la formation d’une cirrhose. La transplantation hépatique peut être envisagée quand les traitements conservateurs comme le traitement anti-coagulant, les diurétiques ou le TIPS n’ont pas permis d’améliorer la situation.
 * La drépanocytose hépatique : il s’agit d’une maladie génétique fréquente en Afrique et aux Antilles qui confère aux globules rouges une forme anormale, en faux. Du fait de cette forme anormale les globules rouges peuvent se bloquer dans les vaisseaux sanguins microscopiques appelés vaisseaux capillaires et provoquer un défaut d’oxygénation. Les organes les plus souvent touchés sont les os (crise vaso-occlusive osseuse douloureuse) et le poumon. Le foie est souvent le siège de réactions de vaso-occlusion aux cours des crises drépanocytaires mais celles-ci sont le plus souvent très modestes et sans conséquence immédiate. Cependant, la répétition de ces crises dans le foie peut provoquer une souffrance chronique du foie pouvant évoluer vers une déformation du foie et même une cirrhose avec un risque de décompensation nécessitant d’envisager une greffe hépatique. Exceptionnellement, la crise vaso-occlusive hépatique aiguë peut provoquer une hépatite aiguë grave nécessitant une greffe hépatique en urgence. L’hôpital Henri Mondor, du fait de la présence d’un centre de référence national pour la prise en charge de la drépanocytose (lien internet), est le centre qui a la plus grosse expérience mondiale de transplantation pour atteinte hépatique de la drépanocytose.
 
-## Indication de transplantation pour hépatite fulminante
+### Indication de transplantation pour hépatite fulminante
 
 Une hépatite fulminante est une maladie aiguë du foie, survenant par définition sur un foie normal, et qui aboutit à sa destruction complète en quelques jours ou semaines. C’est une maladie très rare, mais qui peut compliquer toute hépatite aiguë (inflammation du foie), quelle qu’en soit la cause. Les causes les plus souvent observées sont virales (virus des hépatites A ou B ou autres virus plus rares) ou médicamenteuses, qu’il s’agisse d’une réaction « allergique » à un traitement pris aux doses prescrites ou d’un surdosage médicamenteux, volontaire ou non ; le paracetamol à doses fortes est notamment susceptible d’entrainer une hépatite fulminante. Dans bon nombre de cas, cependant, aucune cause n’est clairement identifiée.
 L’apparition de la défaillance hépatique, quelques jours après les premiers signes de la maladie,  met la vie en jeu du fait notamment de l’apparition de troubles neurologiques évoluant vers le coma. Il n’existe pas de traitement spécifique et la mortalité en l’absence de transplantation est supérieure à 80 %.
